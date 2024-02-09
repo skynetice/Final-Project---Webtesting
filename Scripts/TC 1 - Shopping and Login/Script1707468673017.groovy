@@ -61,5 +61,7 @@ WebUI.click(findTestObject('Object Repository/TC1/Page_Advantage Shopping/button
 WebUI.verifyElementPresent(findTestObject('Object Repository/TC1/Page_Advantage Shopping/h2_Thank you for buying with Advantage'), 
     0)
 
+WebUI.delay(3)
+
 WebUI.closeBrowser()
 
