@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_center block smollMargin</name>
+   <tag></tag>
+   <elementGuidId>41b35f25-801a-4f73-b529-e5d0e361a35f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='registerPage']/article/sec-form/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.center.block.smollMargin</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>350290e2-864a-486c-a743-d74456e31836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>center block smollMargin</value>
+      <webElementGuid>b7979d36-4794-45ea-aabd-4d1571cf5422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-show</name>
+      <type>Main</type>
+      <value>!registerSuccess</value>
+      <webElementGuid>e5d711bd-7829-4b7f-999f-80e8a85bf718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerPage&quot;)/article[1]/sec-form[@class=&quot;ng-isolate-scope secForm&quot;]/div[@class=&quot;center&quot;]/label[@class=&quot;center block smollMargin&quot;]</value>
+      <webElementGuid>fe00a11e-ce67-46a8-ad9a-75ff83bd826b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='registerPage']/article/sec-form/div[2]/label</value>
+      <webElementGuid>daa4f1b2-5284-4d09-b6a4-90255f749da4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>b3fc45df-f2b9-4a68-97aa-86d844871e96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

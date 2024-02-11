@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 3 - Create acccount with error</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af715f69-06ba-4eb1-ad4e-8f562579cfca</testCaseGuid>
+</TestCaseEntity>
