@@ -17,6 +17,8 @@ Pada halaman pendaftaran akun baru terdapat form untuk konfirmasi password diman
 
 ## Test Suites
 Terdapat 2 Test Suites yakni :
+
+
 **1. TestSuites Login dan Order**
 Test Suites ini berisikan Test Case 1 dan 2
 
