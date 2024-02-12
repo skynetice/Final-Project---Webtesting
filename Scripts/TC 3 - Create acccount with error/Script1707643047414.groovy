@@ -19,20 +19,26 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://advantageonlineshopping.com/')
+WebUI.navigateToUrl(GlobalVariable.site_url)
+
+WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/a_My account                        My orde_124641'))
 
+WebUI.delay(1)
+
 WebUI.click(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/a_CREATE NEW ACCOUNT'))
 
-WebUI.setText(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/input_usernameRegisterPage'), 'nicehsk')
+WebUI.delay(1)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/input_passwordRegisterPage'), 'NuaXv/4AAps=')
+WebUI.setText(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/input_usernameRegisterPage'), username)
 
-WebUI.setText(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/input_emailRegisterPage'), 'test@gmail.com')
+WebUI.setEncryptedText(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/input_passwordRegisterPage'), password)
+
+WebUI.setText(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/input_emailRegisterPage'), email)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/input_confirm_passwordRegisterPage'), 
-    'NuaXv/4AAps=')
+    passwordConfirm)
 
 WebUI.setText(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/input_first_nameRegisterPage'), 'Santi')
 
@@ -55,6 +61,8 @@ WebUI.setText(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/inp
 WebUI.setText(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/input_postal_codeRegisterPage'), '0000')
 
 WebUI.click(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/input_i_agree'))
+
+WebUI.delay(1)
 
 WebUI.click(findTestObject('Object Repository/TC 3/Page_Advantage Shopping/button_REGISTER'))
 

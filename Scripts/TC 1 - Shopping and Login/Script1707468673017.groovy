@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://advantageonlineshopping.com/')
+WebUI.navigateToUrl(GlobalVariable.site_url)
 
 WebUI.click(findTestObject('Object Repository/TC1/Page_Advantage Shopping/div_LAPTOPS                        Shop Now'))
 
