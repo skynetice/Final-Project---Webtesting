@@ -1,0 +1,101 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 2 - Register Function,Chrome 121.0.0.0,,,12-02-2024 09:23:05,12-02-2024 09:25:26,2m - 21.101s,PASSED
+,,,,,,,
+Test Cases/TC 3 - Create acccount with error,Chrome 121.0.0.0,,,12-02-2024 09:23:05,12-02-2024 09:23:38,32.922s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,12-02-2024 09:23:05,12-02-2024 09:23:07,1.574s,PASSED
+navigateToUrl(site_url),Chrome 121.0.0.0,,,12-02-2024 09:23:07,12-02-2024 09:23:10,2.963s,PASSED
+delay(3),Chrome 121.0.0.0,,,12-02-2024 09:23:10,12-02-2024 09:23:13,3.042s,PASSED
+"click(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/a_My account                        My orde_124641""))",Chrome 121.0.0.0,,,12-02-2024 09:23:13,12-02-2024 09:23:14,1.326s,PASSED
+delay(1),Chrome 121.0.0.0,,,12-02-2024 09:23:14,12-02-2024 09:23:15,1.019s,PASSED
+"click(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/a_CREATE NEW ACCOUNT""))",Chrome 121.0.0.0,,,12-02-2024 09:23:15,12-02-2024 09:23:16,0.331s,PASSED
+delay(1),Chrome 121.0.0.0,,,12-02-2024 09:23:16,12-02-2024 09:23:17,1.018s,PASSED
+"setText(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/input_usernameRegisterPage""), username)",Chrome 121.0.0.0,,,12-02-2024 09:23:17,12-02-2024 09:23:17,0.790s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/input_passwordRegisterPage""), password)",Chrome 121.0.0.0,,,12-02-2024 09:23:17,12-02-2024 09:23:18,0.538s,PASSED
+"setText(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/input_emailRegisterPage""), email)",Chrome 121.0.0.0,,,12-02-2024 09:23:18,12-02-2024 09:23:19,1.137s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/input_confirm_passwordRegisterPage""), passwordConfirm)",Chrome 121.0.0.0,,,12-02-2024 09:23:19,12-02-2024 09:23:20,0.622s,PASSED
+"setText(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/input_first_nameRegisterPage""), ""Santi"")",Chrome 121.0.0.0,,,12-02-2024 09:23:20,12-02-2024 09:23:21,1.106s,PASSED
+"setText(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/input_last_nameRegisterPage""), ""Satu"")",Chrome 121.0.0.0,,,12-02-2024 09:23:21,12-02-2024 09:23:22,1.208s,PASSED
+"setText(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/input_phone_numberRegisterPage""), ""0000000000000"")",Chrome 121.0.0.0,,,12-02-2024 09:23:22,12-02-2024 09:23:23,1.227s,PASSED
+"selectOptionByLabel(findTestObject(""TC 3/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a""), ""Indonesia"", false)",Chrome 121.0.0.0,,,12-02-2024 09:23:23,12-02-2024 09:23:24,1.170s,PASSED
+"setText(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/input_cityRegisterPage""), ""Jakarta"")",Chrome 121.0.0.0,,,12-02-2024 09:23:24,12-02-2024 09:23:26,1.181s,PASSED
+"setText(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/input_addressRegisterPage""), ""Jakarta"")",Chrome 121.0.0.0,,,12-02-2024 09:23:26,12-02-2024 09:23:27,1.093s,PASSED
+"click(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/label_State  Province  Region""))",Chrome 121.0.0.0,,,12-02-2024 09:23:27,12-02-2024 09:23:27,0.546s,PASSED
+"setText(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/input_state__province__regionRegisterPage""), ""Jakarta"")",Chrome 121.0.0.0,,,12-02-2024 09:23:27,12-02-2024 09:23:28,1.165s,PASSED
+"setText(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/input_postal_codeRegisterPage""), ""0000"")",Chrome 121.0.0.0,,,12-02-2024 09:23:28,12-02-2024 09:23:30,1.177s,PASSED
+"click(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/input_i_agree""))",Chrome 121.0.0.0,,,12-02-2024 09:23:30,12-02-2024 09:23:30,0.557s,PASSED
+delay(1),Chrome 121.0.0.0,,,12-02-2024 09:23:30,12-02-2024 09:23:31,1.015s,PASSED
+"click(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/button_REGISTER""))",Chrome 121.0.0.0,,,12-02-2024 09:23:31,12-02-2024 09:23:31,0.326s,PASSED
+"verifyElementText(findTestObject(""Object Repository/TC 3/Page_Advantage Shopping/label_center block smollMargin""), ""User name already exists"")",Chrome 121.0.0.0,,,12-02-2024 09:23:31,12-02-2024 09:23:33,1.070s,PASSED
+delay(3),Chrome 121.0.0.0,,,12-02-2024 09:23:33,12-02-2024 09:23:36,3.019s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,12-02-2024 09:23:36,12-02-2024 09:23:36,0.157s,PASSED
+Video,Chrome 121.0.0.0,,,12-02-2024 09:23:38,12-02-2024 09:23:38,0.000s,PASSED
+,,,,,,,
+Test Cases/TC 4 - Check if confirmation password is equal,Chrome 121.0.0.0,,,12-02-2024 09:23:44,12-02-2024 09:24:04,19.861s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,12-02-2024 09:23:44,12-02-2024 09:23:45,0.726s,PASSED
+navigateToUrl(site_url),Chrome 121.0.0.0,,,12-02-2024 09:23:45,12-02-2024 09:23:48,2.819s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641""))",Chrome 121.0.0.0,,,12-02-2024 09:23:48,12-02-2024 09:23:52,4.100s,PASSED
+delay(1),Chrome 121.0.0.0,,,12-02-2024 09:23:52,12-02-2024 09:23:53,1.020s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT""))",Chrome 121.0.0.0,,,12-02-2024 09:23:53,12-02-2024 09:23:53,0.334s,PASSED
+"setText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage""), username)",Chrome 121.0.0.0,,,12-02-2024 09:23:53,12-02-2024 09:23:55,1.589s,PASSED
+"setText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage""), email)",Chrome 121.0.0.0,,,12-02-2024 09:23:55,12-02-2024 09:23:56,1.219s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage""), password)",Chrome 121.0.0.0,,,12-02-2024 09:23:56,12-02-2024 09:23:56,0.614s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password""))",Chrome 121.0.0.0,,,12-02-2024 09:23:56,12-02-2024 09:23:57,0.564s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage""), passwordConfirm)",Chrome 121.0.0.0,,,12-02-2024 09:23:57,12-02-2024 09:23:58,0.596s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password""))",Chrome 121.0.0.0,,,12-02-2024 09:23:58,12-02-2024 09:23:58,0.555s,PASSED
+if (password != passwordConfirm),Chrome 121.0.0.0,,,12-02-2024 09:23:58,12-02-2024 09:23:59,0.521s,PASSED
+delay(3),Chrome 121.0.0.0,,,12-02-2024 09:23:59,12-02-2024 09:24:02,3.016s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,12-02-2024 09:24:02,12-02-2024 09:24:02,0.142s,PASSED
+Video,Chrome 121.0.0.0,,,12-02-2024 09:24:04,12-02-2024 09:24:04,0.001s,PASSED
+,,,,,,,
+Test Cases/TC 4 - Check if confirmation password is equal,Chrome 121.0.0.0,,,12-02-2024 09:24:04,12-02-2024 09:24:25,20.924s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,12-02-2024 09:24:04,12-02-2024 09:24:05,0.597s,PASSED
+navigateToUrl(site_url),Chrome 121.0.0.0,,,12-02-2024 09:24:05,12-02-2024 09:24:07,2.907s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641""))",Chrome 121.0.0.0,,,12-02-2024 09:24:07,12-02-2024 09:24:12,4.140s,PASSED
+delay(1),Chrome 121.0.0.0,,,12-02-2024 09:24:12,12-02-2024 09:24:13,1.011s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT""))",Chrome 121.0.0.0,,,12-02-2024 09:24:13,12-02-2024 09:24:13,0.332s,PASSED
+"setText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage""), username)",Chrome 121.0.0.0,,,12-02-2024 09:24:13,12-02-2024 09:24:16,2.673s,PASSED
+"setText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage""), email)",Chrome 121.0.0.0,,,12-02-2024 09:24:16,12-02-2024 09:24:17,1.208s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage""), password)",Chrome 121.0.0.0,,,12-02-2024 09:24:17,12-02-2024 09:24:17,0.637s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password""))",Chrome 121.0.0.0,,,12-02-2024 09:24:17,12-02-2024 09:24:18,0.571s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage""), passwordConfirm)",Chrome 121.0.0.0,,,12-02-2024 09:24:18,12-02-2024 09:24:19,0.583s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password""))",Chrome 121.0.0.0,,,12-02-2024 09:24:19,12-02-2024 09:24:19,0.565s,PASSED
+if (password != passwordConfirm),Chrome 121.0.0.0,,,12-02-2024 09:24:19,12-02-2024 09:24:19,0.002s,PASSED
+else,Chrome 121.0.0.0,,,12-02-2024 09:24:19,12-02-2024 09:24:20,0.503s,PASSED
+delay(3),Chrome 121.0.0.0,,,12-02-2024 09:24:20,12-02-2024 09:24:23,3.014s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,12-02-2024 09:24:23,12-02-2024 09:24:23,0.131s,PASSED
+Video,Chrome 121.0.0.0,,,12-02-2024 09:24:25,12-02-2024 09:24:25,0.001s,PASSED
+,,,,,,,
+Test Cases/TC 4 - Check if confirmation password is equal,Chrome 121.0.0.0,,,12-02-2024 09:24:25,12-02-2024 09:24:46,20.748s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,12-02-2024 09:24:25,12-02-2024 09:24:26,0.654s,PASSED
+navigateToUrl(site_url),Chrome 121.0.0.0,,,12-02-2024 09:24:26,12-02-2024 09:24:28,2.829s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641""))",Chrome 121.0.0.0,,,12-02-2024 09:24:28,12-02-2024 09:24:32,4.104s,PASSED
+delay(1),Chrome 121.0.0.0,,,12-02-2024 09:24:32,12-02-2024 09:24:33,1.015s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT""))",Chrome 121.0.0.0,,,12-02-2024 09:24:33,12-02-2024 09:24:34,0.328s,PASSED
+"setText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage""), username)",Chrome 121.0.0.0,,,12-02-2024 09:24:34,12-02-2024 09:24:36,2.609s,PASSED
+"setText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage""), email)",Chrome 121.0.0.0,,,12-02-2024 09:24:36,12-02-2024 09:24:38,1.203s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage""), password)",Chrome 121.0.0.0,,,12-02-2024 09:24:38,12-02-2024 09:24:38,0.603s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password""))",Chrome 121.0.0.0,,,12-02-2024 09:24:38,12-02-2024 09:24:39,0.566s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage""), passwordConfirm)",Chrome 121.0.0.0,,,12-02-2024 09:24:39,12-02-2024 09:24:39,0.594s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password""))",Chrome 121.0.0.0,,,12-02-2024 09:24:39,12-02-2024 09:24:40,0.543s,PASSED
+if (password != passwordConfirm),Chrome 121.0.0.0,,,12-02-2024 09:24:40,12-02-2024 09:24:40,0.000s,PASSED
+else,Chrome 121.0.0.0,,,12-02-2024 09:24:40,12-02-2024 09:24:40,0.518s,PASSED
+delay(3),Chrome 121.0.0.0,,,12-02-2024 09:24:40,12-02-2024 09:24:43,3.004s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,12-02-2024 09:24:43,12-02-2024 09:24:44,0.128s,PASSED
+Video,Chrome 121.0.0.0,,,12-02-2024 09:24:46,12-02-2024 09:24:46,0.000s,PASSED
+,,,,,,,
+Test Cases/TC 4 - Check if confirmation password is equal,Chrome 121.0.0.0,,,12-02-2024 09:24:52,12-02-2024 09:25:26,33.670s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,12-02-2024 09:24:52,12-02-2024 09:24:53,0.753s,PASSED
+navigateToUrl(site_url),Chrome 121.0.0.0,,,12-02-2024 09:24:53,12-02-2024 09:24:56,2.872s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641""))",Chrome 121.0.0.0,,,12-02-2024 09:24:56,12-02-2024 09:25:00,4.215s,PASSED
+delay(1),Chrome 121.0.0.0,,,12-02-2024 09:25:00,12-02-2024 09:25:01,1.013s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT""))",Chrome 121.0.0.0,,,12-02-2024 09:25:01,12-02-2024 09:25:01,0.329s,PASSED
+"setText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage""), username)",Chrome 121.0.0.0,,,12-02-2024 09:25:01,12-02-2024 09:25:17,15.420s,PASSED
+"setText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage""), email)",Chrome 121.0.0.0,,,12-02-2024 09:25:17,12-02-2024 09:25:18,1.111s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage""), password)",Chrome 121.0.0.0,,,12-02-2024 09:25:18,12-02-2024 09:25:18,0.606s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password""))",Chrome 121.0.0.0,,,12-02-2024 09:25:18,12-02-2024 09:25:19,0.547s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage""), passwordConfirm)",Chrome 121.0.0.0,,,12-02-2024 09:25:19,12-02-2024 09:25:20,0.577s,PASSED
+"click(findTestObject(""Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password""))",Chrome 121.0.0.0,,,12-02-2024 09:25:20,12-02-2024 09:25:20,0.529s,PASSED
+if (password != passwordConfirm),Chrome 121.0.0.0,,,12-02-2024 09:25:20,12-02-2024 09:25:21,0.502s,PASSED
+delay(3),Chrome 121.0.0.0,,,12-02-2024 09:25:21,12-02-2024 09:25:24,3.017s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,12-02-2024 09:25:24,12-02-2024 09:25:24,0.143s,PASSED
+Video,Chrome 121.0.0.0,,,12-02-2024 09:25:26,12-02-2024 09:25:26,0.000s,PASSED

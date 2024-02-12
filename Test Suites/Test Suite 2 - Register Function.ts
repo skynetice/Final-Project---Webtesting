@@ -12,13 +12,44 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>bc87a7e2-c505-484a-b00c-f513f7576727</testSuiteGuid>
    <testCaseLink>
-      <guid>177fbc18-cc98-451b-a4ca-19ccc0f1bb9d</guid>
+      <guid>80f1dd15-70e4-43c8-98d5-eb759b30fa38</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC 3 - Create acccount with error</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>020212e6-08be-429e-8023-df5e8d0bce4e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c5837330-3f91-45cf-b3ac-a9f8c9c1defe</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c1bca50e-66f0-4235-aaf6-0e23d9d9c4ed</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0defd4d5-8579-49b2-b3e8-71812dc5244e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>90838d56-4a5d-4037-a13a-8029e4f6a63a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC 4 - Check if confirmation password is equal</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>bd38e94c-c9a5-4e7e-8abc-de67e0eab318</id>
+         <id>201e13a7-9bbb-4866-b009-f23b40fbe479</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,58 +58,27 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>bd38e94c-c9a5-4e7e-8abc-de67e0eab318</testDataLinkId>
+         <testDataLinkId>201e13a7-9bbb-4866-b009-f23b40fbe479</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>username</value>
-         <variableId>5e0ab2fc-4ce1-4d53-a73a-2b64326c01dc</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>bd38e94c-c9a5-4e7e-8abc-de67e0eab318</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>email</value>
-         <variableId>f3154143-9f92-4d06-bd30-b9c3b4d8b3a5</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>bd38e94c-c9a5-4e7e-8abc-de67e0eab318</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>password</value>
-         <variableId>6bec58e5-d107-45f6-995b-0b59b04901b0</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>bd38e94c-c9a5-4e7e-8abc-de67e0eab318</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>passwordConfirm</value>
-         <variableId>3646d538-74f5-4444-a201-1a43ac0c175a</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>3986ea49-2c7c-42c8-a309-76f41427aa70</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/TC 4 - Check if confirmation password is equal</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
          <variableId>16f5ffa3-393a-4d13-8856-cbdfae51f82b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>201e13a7-9bbb-4866-b009-f23b40fbe479</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
          <variableId>9b40fb30-f2ff-4040-93e2-e06ec331f299</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>201e13a7-9bbb-4866-b009-f23b40fbe479</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
          <variableId>883b3ba8-5b9e-4f11-bb55-6262d8c15ae3</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>201e13a7-9bbb-4866-b009-f23b40fbe479</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>passwordConfirm</value>
          <variableId>35e4fc1d-0d18-4946-8527-de7d2346f789</variableId>
       </variableLink>
    </testCaseLink>
