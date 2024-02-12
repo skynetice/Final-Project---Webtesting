@@ -1,9 +1,9 @@
-# Final Project - WebUI
+# Final Project - Website
 
 terdiri dari 4 Test Case Utama, yakni :
 
 **1. Testcase shopping dan login**
-User mengakses website lalu memilih salah satu abrang dan memasukkannya ke dalam keranjang, lalu user pergi ke halaman keranjang dan melakukan login untuk melanjutkan proses belanja hingga ke pembayaran,
+User mengakses website lalu memilih salah satu barang dan memasukkannya ke dalam keranjang, lalu user pergi ke halaman keranjang dan melakukan login untuk melanjutkan proses belanja hingga ke pembayaran,
 
 **2. Testcase Login dan shopping 3 items**
 User terlebih dahulu melakukan login, lalu setelah login user akan berbelanja dengan memilih 3 jenis barang berbeda dan dimasukkan ke dalam keranjang, setelah itu user masuk ke halaman keranjang dan menyelesaikan pembayaran.
