@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite 1 - Login and Order" time="99.059" tests="2" failures="0" errors="0">
+   <testsuite name="Test Suite 1 - Login and Order" tests="2" failures="0" errors="0" time="99.059" skipped="0" timestamp="12-02-2024T13:07:01" hostname="skyne - SKYNETICJ-0VA" id="Test Suites/Test Suite 1 - Login and Order">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\skyne\\git\\Final-Project---Webtesting\\Reports\\20240212_130651\\Test Suite 1 - Login and Order\\20240212_130652"/>
+         <property name="logFiles" value="C:\\Users\\skyne\\git\\Final-Project---Webtesting\\Reports\\20240212_130651\\Test Suite 1 - Login and Order\\20240212_130652\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="skyne - SKYNETICJ-0VA"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="172.16.213.219"/>
+         <property name="sessionId" value="618049d84fdd4ca1268a608bec9376eb"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC 1 - Shopping and Login" time="41.903" classname="Test Cases/TC 1 - Shopping and Login" status="PASSED">
+         <system-out><![CDATA[12-02-2024T13:07:01 - [TEST_CASE][PASSED] - Test Cases/TC 1 - Shopping and Login: Test Cases/TC 1 - Shopping and Login
+
+12-02-2024T13:07:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12-02-2024T13:07:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12-02-2024T13:07:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12-02-2024T13:07:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12-02-2024T13:07:04 - [TEST_STEP][PASSED] - navigateToUrl(site_url): Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T13:07:07 - [MESSAGE][PASSED] - Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T13:07:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/div_LAPTOPS                        Shop Now")): Object: 'Object Repository/TC1/Page_Advantage Shopping/div_LAPTOPS                        Shop Now' is clicked on
+
+12-02-2024T13:07:11 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/div_LAPTOPS                        Shop Now' is clicked on
+
+12-02-2024T13:07:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/li_SOLD OUT                                _252972")): Object: 'Object Repository/TC1/Page_Advantage Shopping/li_SOLD OUT                                _252972' is clicked on
+
+12-02-2024T13:07:14 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/li_SOLD OUT                                _252972' is clicked on
+
+12-02-2024T13:07:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/button_ADD TO CART")): Object: 'Object Repository/TC1/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T13:07:17 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T13:07:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/button_CHECKOUT  (1,261.99)")): Object: 'Object Repository/TC1/Page_Advantage Shopping/button_CHECKOUT  (1,261.99)' is clicked on
+
+12-02-2024T13:07:18 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/button_CHECKOUT  (1,261.99)' is clicked on
+
+12-02-2024T13:07:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_usernameInOrderPayment"), "nicehsk"): Text 'nicehsk' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_usernameInOrderPayment'
+
+12-02-2024T13:07:19 - [MESSAGE][PASSED] - Text 'nicehsk' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_usernameInOrderPayment'
+
+12-02-2024T13:07:19 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_passwordInOrderPayment"), "IUzobqKA7NU0EdNVQvmFCA=="): Text ****** has been set on object 'Object Repository/TC1/Page_Advantage Shopping/input_passwordInOrderPayment'
+
+12-02-2024T13:07:20 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC1/Page_Advantage Shopping/input_passwordInOrderPayment'
+
+12-02-2024T13:07:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/button_LOGIN")): Object: 'Object Repository/TC1/Page_Advantage Shopping/button_LOGIN' is clicked on
+
+12-02-2024T13:07:21 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/button_LOGIN' is clicked on
+
+12-02-2024T13:07:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/a_Edit shipping details")): Object: 'Object Repository/TC1/Page_Advantage Shopping/a_Edit shipping details' is clicked on
+
+12-02-2024T13:07:25 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/a_Edit shipping details' is clicked on
+
+12-02-2024T13:07:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_first_name"), "Budi"): Text 'Budi' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_first_name'
+
+12-02-2024T13:07:26 - [MESSAGE][PASSED] - Text 'Budi' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_first_name'
+
+12-02-2024T13:07:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_last_name"), "Saja"): Text 'Saja' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_last_name'
+
+12-02-2024T13:07:27 - [MESSAGE][PASSED] - Text 'Saja' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_last_name'
+
+12-02-2024T13:07:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_phone_number"), "00000000000"): Text '00000000000' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_phone_number'
+
+12-02-2024T13:07:29 - [MESSAGE][PASSED] - Text '00000000000' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_phone_number'
+
+12-02-2024T13:07:29 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("TC1/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a"), "Indonesia", false): All options with label 'Indonesia' are selected in object 'Object Repository/TC1/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a' 
+
+12-02-2024T13:07:29 - [MESSAGE][PASSED] - All options with label 'Indonesia' are selected in object 'Object Repository/TC1/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a' 
+
+12-02-2024T13:07:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_city"), "Jakarta"): Text 'Jakarta' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_city'
+
+12-02-2024T13:07:31 - [MESSAGE][PASSED] - Text 'Jakarta' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_city'
+
+12-02-2024T13:07:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_address"), "Jakarta"): Text 'Jakarta' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_address'
+
+12-02-2024T13:07:32 - [MESSAGE][PASSED] - Text 'Jakarta' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_address'
+
+12-02-2024T13:07:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_postal_code"), "0000"): Text '0000' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_postal_code'
+
+12-02-2024T13:07:33 - [MESSAGE][PASSED] - Text '0000' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_postal_code'
+
+12-02-2024T13:07:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_state__province__region"), "Jakarta"): Text 'Jakarta' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_state__province__region'
+
+12-02-2024T13:07:34 - [MESSAGE][PASSED] - Text 'Jakarta' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_state__province__region'
+
+12-02-2024T13:07:34 - [TEST_STEP][PASSED] - click(findTestObject("TC 1-2/Page_Advantage Shopping/button_NEXT")): Object: 'Object Repository/TC 1-2/Page_Advantage Shopping/button_NEXT' is clicked on
+
+12-02-2024T13:07:35 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 1-2/Page_Advantage Shopping/button_NEXT' is clicked on
+
+12-02-2024T13:07:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/button_PAY NOW")): Object: 'Object Repository/TC1/Page_Advantage Shopping/button_PAY NOW' is clicked on
+
+12-02-2024T13:07:37 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/button_PAY NOW' is clicked on
+
+12-02-2024T13:07:37 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/TC1/Page_Advantage Shopping/h2_Thank you for buying with Advantage"), 0): Object 'Object Repository/TC1/Page_Advantage Shopping/h2_Thank you for buying with Advantage' is present
+
+12-02-2024T13:07:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+12-02-2024T13:07:38 - [MESSAGE][PASSED] - Object 'Object Repository/TC1/Page_Advantage Shopping/h2_Thank you for buying with Advantage' is present
+
+12-02-2024T13:07:38 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+12-02-2024T13:07:41 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+12-02-2024T13:07:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+12-02-2024T13:07:41 - [MESSAGE][PASSED] - Browser is closed
+
+12-02-2024T13:07:43 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/TC 1 - Shopping and Login' .
+
+12-02-2024T13:07:43 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/TC 1 - Shopping and Login' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC 2 - Login then Shop 3 Items" time="56.882" classname="Test Cases/TC 2 - Login then Shop 3 Items" status="PASSED">
+         <system-out><![CDATA[12-02-2024T13:07:43 - [TEST_CASE][PASSED] - Test Cases/TC 2 - Login then Shop 3 Items: Test Cases/TC 2 - Login then Shop 3 Items
+
+12-02-2024T13:07:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12-02-2024T13:07:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12-02-2024T13:07:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12-02-2024T13:07:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12-02-2024T13:07:44 - [TEST_STEP][PASSED] - navigateToUrl("https://advantageonlineshopping.com/"): Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T13:07:48 - [MESSAGE][PASSED] - Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T13:07:48 - [TEST_STEP][PASSED] - click(findTestObject("TC 2/Page_Advantage Shopping/a_My account                        My orders                        Sign out")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_My account                        My orders                        Sign out' is clicked on
+
+12-02-2024T13:07:52 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_My account                        My orders                        Sign out' is clicked on
+
+12-02-2024T13:07:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/input_username"), "nicehsk"): Text 'nicehsk' is set on object 'Object Repository/TC 2/Page_Advantage Shopping/input_username'
+
+12-02-2024T13:07:53 - [MESSAGE][PASSED] - Text 'nicehsk' is set on object 'Object Repository/TC 2/Page_Advantage Shopping/input_username'
+
+12-02-2024T13:07:53 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/input_password"), "IUzobqKA7NU0EdNVQvmFCA=="): Text ****** has been set on object 'Object Repository/TC 2/Page_Advantage Shopping/input_password'
+
+12-02-2024T13:07:54 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC 2/Page_Advantage Shopping/input_password'
+
+12-02-2024T13:07:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_SIGN IN")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_SIGN IN' is clicked on
+
+12-02-2024T13:07:54 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_SIGN IN' is clicked on
+
+12-02-2024T13:07:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/div_SPEAKERS                        Shop Now")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_SPEAKERS                        Shop Now' is clicked on
+
+12-02-2024T13:07:58 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_SPEAKERS                        Shop Now' is clicked on
+
+12-02-2024T13:07:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _e4d6fd")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _e4d6fd' is clicked on
+
+12-02-2024T13:08:00 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _e4d6fd' is clicked on
+
+12-02-2024T13:08:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T13:08:05 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T13:08:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/a_HOME")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_HOME' is clicked on
+
+12-02-2024T13:08:07 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_HOME' is clicked on
+
+12-02-2024T13:08:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/div_HEADPHONES                        Shop Now")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_HEADPHONES                        Shop Now' is clicked on
+
+12-02-2024T13:08:12 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_HEADPHONES                        Shop Now' is clicked on
+
+12-02-2024T13:08:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _ad00b0")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _ad00b0' is clicked on
+
+12-02-2024T13:08:13 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _ad00b0' is clicked on
+
+12-02-2024T13:08:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T13:08:19 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T13:08:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/a_HOME")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_HOME' is clicked on
+
+12-02-2024T13:08:20 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_HOME' is clicked on
+
+12-02-2024T13:08:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/div_MICE                        Shop Now")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_MICE                        Shop Now' is clicked on
+
+12-02-2024T13:08:20 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_MICE                        Shop Now' is clicked on
+
+12-02-2024T13:08:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _269779")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _269779' is clicked on
+
+12-02-2024T13:08:21 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _269779' is clicked on
+
+12-02-2024T13:08:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/div_plus")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_plus' is clicked on
+
+12-02-2024T13:08:21 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_plus' is clicked on
+
+12-02-2024T13:08:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T13:08:22 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T13:08:22 - [TEST_STEP][PASSED] - click(findTestObject("TC 2/Page_Advantage Shopping/a_0")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_0' is clicked on
+
+12-02-2024T13:08:24 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_0' is clicked on
+
+12-02-2024T13:08:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_CHECKOUT (2,170.94)")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_CHECKOUT (2,170.94)' is clicked on
+
+12-02-2024T13:08:27 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_CHECKOUT (2,170.94)' is clicked on
+
+12-02-2024T13:08:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_NEXT")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_NEXT' is clicked on
+
+12-02-2024T13:08:31 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_NEXT' is clicked on
+
+12-02-2024T13:08:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_PAY NOW")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_PAY NOW' is clicked on
+
+12-02-2024T13:08:32 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_PAY NOW' is clicked on
+
+12-02-2024T13:08:32 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/h2_Thank you for buying with Advantage"), 0): Object 'Object Repository/TC 2/Page_Advantage Shopping/h2_Thank you for buying with Advantage' is present
+
+12-02-2024T13:08:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+12-02-2024T13:08:34 - [MESSAGE][PASSED] - Object 'Object Repository/TC 2/Page_Advantage Shopping/h2_Thank you for buying with Advantage' is present
+
+12-02-2024T13:08:34 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/label_Budi Saja"), "Budi Saja"): Actual text and expected text of test object 'Object Repository/TC 2/Page_Advantage Shopping/label_Budi Saja' are matched.
+
+12-02-2024T13:08:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/TC 2/Page_Advantage Shopping/label_Budi Saja' are matched.
+
+12-02-2024T13:08:35 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+12-02-2024T13:08:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+12-02-2024T13:08:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+12-02-2024T13:08:38 - [MESSAGE][PASSED] - Browser is closed
+
+12-02-2024T13:08:40 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/TC 2 - Login then Shop 3 Items' .
+
+12-02-2024T13:08:40 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/TC 2 - Login then Shop 3 Items' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[12-02-2024T13:07:01 - [TEST_SUITE][PASSED] - Test Suite 1 - Login and Order: Test Cases/TC 2 - Login then Shop 3 Items]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

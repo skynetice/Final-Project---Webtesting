@@ -1,0 +1,57 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 1 - Login and Order,Chrome 121.0.0.0,,,12-02-2024 13:07:01,12-02-2024 13:08:40,1m - 39.059s,PASSED
+,,,,,,,
+Test Cases/TC 1 - Shopping and Login,Chrome 121.0.0.0,,,12-02-2024 13:07:01,12-02-2024 13:07:43,41.903s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,12-02-2024 13:07:02,12-02-2024 13:07:04,2.150s,PASSED
+navigateToUrl(site_url),Chrome 121.0.0.0,,,12-02-2024 13:07:04,12-02-2024 13:07:07,3.003s,PASSED
+"click(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/div_LAPTOPS                        Shop Now""))",Chrome 121.0.0.0,,,12-02-2024 13:07:07,12-02-2024 13:07:11,4.385s,PASSED
+"click(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/li_SOLD OUT                                _252972""))",Chrome 121.0.0.0,,,12-02-2024 13:07:11,12-02-2024 13:07:14,2.606s,PASSED
+"click(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/button_ADD TO CART""))",Chrome 121.0.0.0,,,12-02-2024 13:07:14,12-02-2024 13:07:17,3.168s,PASSED
+"click(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/button_CHECKOUT  (1,261.99)""))",Chrome 121.0.0.0,,,12-02-2024 13:07:17,12-02-2024 13:07:18,0.586s,PASSED
+"setText(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/input_usernameInOrderPayment""), ""nicehsk"")",Chrome 121.0.0.0,,,12-02-2024 13:07:18,12-02-2024 13:07:19,1.249s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/input_passwordInOrderPayment""), ""IUzobqKA7NU0EdNVQvmFCA=="")",Chrome 121.0.0.0,,,12-02-2024 13:07:19,12-02-2024 13:07:20,1.284s,PASSED
+"click(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/button_LOGIN""))",Chrome 121.0.0.0,,,12-02-2024 13:07:20,12-02-2024 13:07:21,0.504s,PASSED
+"click(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/a_Edit shipping details""))",Chrome 121.0.0.0,,,12-02-2024 13:07:21,12-02-2024 13:07:25,4.268s,PASSED
+"setText(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/input_first_name""), ""Budi"")",Chrome 121.0.0.0,,,12-02-2024 13:07:25,12-02-2024 13:07:26,1.108s,PASSED
+"setText(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/input_last_name""), ""Saja"")",Chrome 121.0.0.0,,,12-02-2024 13:07:26,12-02-2024 13:07:27,1.139s,PASSED
+"setText(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/input_phone_number""), ""00000000000"")",Chrome 121.0.0.0,,,12-02-2024 13:07:27,12-02-2024 13:07:29,1.228s,PASSED
+"selectOptionByLabel(findTestObject(""TC1/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a""), ""Indonesia"", false)",Chrome 121.0.0.0,,,12-02-2024 13:07:29,12-02-2024 13:07:29,0.824s,PASSED
+"setText(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/input_city""), ""Jakarta"")",Chrome 121.0.0.0,,,12-02-2024 13:07:29,12-02-2024 13:07:31,1.096s,PASSED
+"setText(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/input_address""), ""Jakarta"")",Chrome 121.0.0.0,,,12-02-2024 13:07:31,12-02-2024 13:07:32,1.102s,PASSED
+"setText(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/input_postal_code""), ""0000"")",Chrome 121.0.0.0,,,12-02-2024 13:07:32,12-02-2024 13:07:33,1.217s,PASSED
+"setText(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/input_state__province__region""), ""Jakarta"")",Chrome 121.0.0.0,,,12-02-2024 13:07:33,12-02-2024 13:07:34,1.204s,PASSED
+"click(findTestObject(""TC 1-2/Page_Advantage Shopping/button_NEXT""))",Chrome 121.0.0.0,,,12-02-2024 13:07:34,12-02-2024 13:07:35,0.614s,PASSED
+"click(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/button_PAY NOW""))",Chrome 121.0.0.0,,,12-02-2024 13:07:35,12-02-2024 13:07:37,2.133s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/TC1/Page_Advantage Shopping/h2_Thank you for buying with Advantage""), 0)",Chrome 121.0.0.0,,,12-02-2024 13:07:37,12-02-2024 13:07:38,1.103s,PASSED
+delay(3),Chrome 121.0.0.0,,,12-02-2024 13:07:38,12-02-2024 13:07:41,3.035s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,12-02-2024 13:07:41,12-02-2024 13:07:41,0.194s,PASSED
+Video,Chrome 121.0.0.0,,,12-02-2024 13:07:43,12-02-2024 13:07:43,0.001s,PASSED
+,,,,,,,
+Test Cases/TC 2 - Login then Shop 3 Items,Chrome 121.0.0.0,,,12-02-2024 13:07:43,12-02-2024 13:08:40,56.882s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,12-02-2024 13:07:43,12-02-2024 13:07:44,0.845s,PASSED
+"navigateToUrl(""https://advantageonlineshopping.com/"")",Chrome 121.0.0.0,,,12-02-2024 13:07:44,12-02-2024 13:07:48,3.489s,PASSED
+"click(findTestObject(""TC 2/Page_Advantage Shopping/a_My account                        My orders                        Sign out""))",Chrome 121.0.0.0,,,12-02-2024 13:07:48,12-02-2024 13:07:52,4.054s,PASSED
+"setText(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/input_username""), ""nicehsk"")",Chrome 121.0.0.0,,,12-02-2024 13:07:52,12-02-2024 13:07:53,0.964s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/input_password""), ""IUzobqKA7NU0EdNVQvmFCA=="")",Chrome 121.0.0.0,,,12-02-2024 13:07:53,12-02-2024 13:07:54,1.248s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/button_SIGN IN""))",Chrome 121.0.0.0,,,12-02-2024 13:07:54,12-02-2024 13:07:54,0.501s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/div_SPEAKERS                        Shop Now""))",Chrome 121.0.0.0,,,12-02-2024 13:07:54,12-02-2024 13:07:58,3.604s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _e4d6fd""))",Chrome 121.0.0.0,,,12-02-2024 13:07:58,12-02-2024 13:08:00,2.305s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART""))",Chrome 121.0.0.0,,,12-02-2024 13:08:00,12-02-2024 13:08:05,4.632s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/a_HOME""))",Chrome 121.0.0.0,,,12-02-2024 13:08:05,12-02-2024 13:08:07,2.299s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/div_HEADPHONES                        Shop Now""))",Chrome 121.0.0.0,,,12-02-2024 13:08:07,12-02-2024 13:08:12,4.941s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _ad00b0""))",Chrome 121.0.0.0,,,12-02-2024 13:08:12,12-02-2024 13:08:13,0.548s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART""))",Chrome 121.0.0.0,,,12-02-2024 13:08:13,12-02-2024 13:08:19,6.158s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/a_HOME""))",Chrome 121.0.0.0,,,12-02-2024 13:08:19,12-02-2024 13:08:20,0.738s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/div_MICE                        Shop Now""))",Chrome 121.0.0.0,,,12-02-2024 13:08:20,12-02-2024 13:08:20,0.531s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _269779""))",Chrome 121.0.0.0,,,12-02-2024 13:08:20,12-02-2024 13:08:21,0.627s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/div_plus""))",Chrome 121.0.0.0,,,12-02-2024 13:08:21,12-02-2024 13:08:21,0.580s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART""))",Chrome 121.0.0.0,,,12-02-2024 13:08:21,12-02-2024 13:08:22,0.357s,PASSED
+"click(findTestObject(""TC 2/Page_Advantage Shopping/a_0""))",Chrome 121.0.0.0,,,12-02-2024 13:08:22,12-02-2024 13:08:24,2.559s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/button_CHECKOUT (2,170.94)""))",Chrome 121.0.0.0,,,12-02-2024 13:08:24,12-02-2024 13:08:27,2.442s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/button_NEXT""))",Chrome 121.0.0.0,,,12-02-2024 13:08:27,12-02-2024 13:08:31,4.652s,PASSED
+"click(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/button_PAY NOW""))",Chrome 121.0.0.0,,,12-02-2024 13:08:31,12-02-2024 13:08:32,0.587s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/h2_Thank you for buying with Advantage""), 0)",Chrome 121.0.0.0,,,12-02-2024 13:08:32,12-02-2024 13:08:34,2.494s,PASSED
+"verifyElementText(findTestObject(""Object Repository/TC 2/Page_Advantage Shopping/label_Budi Saja""), ""Budi Saja"")",Chrome 121.0.0.0,,,12-02-2024 13:08:34,12-02-2024 13:08:35,0.334s,PASSED
+delay(3),Chrome 121.0.0.0,,,12-02-2024 13:08:35,12-02-2024 13:08:38,3.026s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,12-02-2024 13:08:38,12-02-2024 13:08:38,0.209s,PASSED
+Video,Chrome 121.0.0.0,,,12-02-2024 13:08:40,12-02-2024 13:08:40,0.001s,PASSED
