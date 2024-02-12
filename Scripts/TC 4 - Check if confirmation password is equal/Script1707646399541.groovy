@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://advantageonlineshopping.com/')
+WebUI.navigateToUrl(GlobalVariable.site_url)
 
 WebUI.click(findTestObject('Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641'))
 
@@ -41,8 +41,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/TC 4/Page_Advantage Sho
 WebUI.click(findTestObject('Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password'))
 
 if (password != passwordConfirm) {
-    WebUI.verifyElementPresent(findTestObject('TC 4/Page_Advantage Shopping/label_password not match'), 1) //    WebUI.verifyElementHasAttribute(findTestObject('null'), 
-    //        'Password do not match', 0)
+    WebUI.verifyElementPresent(findTestObject('TC 4/Page_Advantage Shopping/label_password not match'), 1 //    WebUI.verifyElementHasAttribute(findTestObject('null'), 
+        ) //        'Password do not match', 0)
 } else {
     WebUI.verifyElementNotPresent(findTestObject('TC 4/Page_Advantage Shopping/label_password not match'), 1)
 }

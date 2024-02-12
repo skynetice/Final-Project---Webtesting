@@ -11,25 +11,27 @@
    <driver>InternalData</driver>
    <data>nicehsk test%40gmail.com NuaXv%2F4AAps%3D ydce47C7I0w%3D</data>
    <data>nicehsk test%40gmail.com NuaXv%2F4AAps%3D NuaXv%2F4AAps%3D</data>
+   <data>goodhsk free%40gmail.com TTIa2jwORrw%3D TTIa2jwORrw%3D</data>
+   <data>goodhsk free%40gmail.com TTIa2jwORrw%3D d88uLYKDR5Q%3D</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>username</name>
-      <size>2</size>
+      <size>4</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>email</name>
-      <size>2</size>
+      <size>4</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>2</columnIndex>
       <name>password</name>
-      <size>2</size>
+      <size>4</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>3</columnIndex>
       <name>passwordConfirm</name>
-      <size>2</size>
+      <size>4</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>
