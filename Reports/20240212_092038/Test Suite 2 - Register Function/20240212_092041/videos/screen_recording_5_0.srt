@@ -1,0 +1,12 @@
+1
+00:00:00,001 --> 00:00:00,645
+1. openBrowser("")
+
+2
+00:00:00,645 --> 00:00:03,815
+5. navigateToUrl(site_url)
+
+3
+00:00:03,815 --> 00:00:04,398
+9. click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641"))
+

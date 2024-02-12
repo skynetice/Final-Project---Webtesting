@@ -1,0 +1,60 @@
+1
+00:00:00,002 --> 00:00:00,737
+1. openBrowser("")
+
+2
+00:00:00,738 --> 00:00:03,942
+5. navigateToUrl(site_url)
+
+3
+00:00:03,943 --> 00:00:08,130
+9. click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641"))
+
+4
+00:00:08,131 --> 00:00:09,142
+13. delay(1)
+
+5
+00:00:09,143 --> 00:00:09,535
+17. click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT"))
+
+6
+00:00:09,536 --> 00:00:11,459
+21. setText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage"), username)
+
+7
+00:00:11,460 --> 00:00:12,678
+25. setText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage"), email)
+
+8
+00:00:12,680 --> 00:00:13,367
+29. setEncryptedText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage"), password)
+
+9
+00:00:13,368 --> 00:00:13,885
+33. click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password"))
+
+10
+00:00:13,885 --> 00:00:14,535
+37. setEncryptedText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage"), passwordConfirm)
+
+11
+00:00:14,536 --> 00:00:15,132
+41. click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password"))
+
+12
+00:00:15,133 --> 00:00:15,137
+45. if (password != passwordConfirm)
+
+13
+00:00:15,138 --> 00:00:15,618
+2. verifyElementNotPresent(findTestObject("TC 4/Page_Advantage Shopping/label_password not match"), 1)
+
+14
+00:00:15,619 --> 00:00:18,632
+49. delay(3)
+
+15
+00:00:18,633 --> 00:00:18,824
+53. closeBrowser()
+

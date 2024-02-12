@@ -1,0 +1,104 @@
+1
+00:00:00,213 --> 00:00:01,787
+1. openBrowser("")
+
+2
+00:00:01,796 --> 00:00:04,763
+5. navigateToUrl(site_url)
+
+3
+00:00:04,763 --> 00:00:07,806
+9. delay(3)
+
+4
+00:00:07,807 --> 00:00:09,132
+13. click(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/a_My account                        My orde_124641"))
+
+5
+00:00:09,133 --> 00:00:10,153
+17. delay(1)
+
+6
+00:00:10,153 --> 00:00:10,483
+21. click(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/a_CREATE NEW ACCOUNT"))
+
+7
+00:00:10,484 --> 00:00:11,503
+25. delay(1)
+
+8
+00:00:11,503 --> 00:00:12,293
+29. setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_usernameRegisterPage"), username)
+
+9
+00:00:12,294 --> 00:00:12,830
+33. setEncryptedText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_passwordRegisterPage"), password)
+
+10
+00:00:12,831 --> 00:00:13,968
+37. setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_emailRegisterPage"), email)
+
+11
+00:00:13,969 --> 00:00:14,592
+41. setEncryptedText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_confirm_passwordRegisterPage"), passwordConfirm)
+
+12
+00:00:14,593 --> 00:00:15,698
+45. setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_first_nameRegisterPage"), "Santi")
+
+13
+00:00:15,699 --> 00:00:16,907
+49. setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_last_nameRegisterPage"), "Satu")
+
+14
+00:00:16,907 --> 00:00:18,134
+53. setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_phone_numberRegisterPage"), "0000000000000")
+
+15
+00:00:18,134 --> 00:00:19,303
+57. selectOptionByLabel(findTestObject("TC 3/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a"), "Indonesia", false)
+
+16
+00:00:19,304 --> 00:00:20,485
+61. setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_cityRegisterPage"), "Jakarta")
+
+17
+00:00:20,486 --> 00:00:21,579
+65. setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_addressRegisterPage"), "Jakarta")
+
+18
+00:00:21,579 --> 00:00:22,125
+69. click(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/label_State  Province  Region"))
+
+19
+00:00:22,126 --> 00:00:23,291
+73. setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_state__province__regionRegisterPage"), "Jakarta")
+
+20
+00:00:23,292 --> 00:00:24,468
+77. setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_postal_codeRegisterPage"), "0000")
+
+21
+00:00:24,469 --> 00:00:25,025
+81. click(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_i_agree"))
+
+22
+00:00:25,026 --> 00:00:26,041
+85. delay(1)
+
+23
+00:00:26,041 --> 00:00:26,367
+89. click(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/button_REGISTER"))
+
+24
+00:00:26,367 --> 00:00:27,437
+93. verifyElementText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/label_center block smollMargin"), "User name already exists")
+
+25
+00:00:27,438 --> 00:00:30,456
+97. delay(3)
+
+26
+00:00:30,457 --> 00:00:30,615
+101. closeBrowser()
+

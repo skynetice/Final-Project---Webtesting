@@ -1,0 +1,92 @@
+1
+00:00:00,188 --> 00:00:01,907
+1. openBrowser("")
+
+2
+00:00:01,915 --> 00:00:05,596
+5. navigateToUrl(site_url)
+
+3
+00:00:05,597 --> 00:00:10,526
+9. click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/div_LAPTOPS                        Shop Now"))
+
+4
+00:00:10,526 --> 00:00:30,248
+13. click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/li_SOLD OUT                                _252972"))
+
+5
+00:00:30,249 --> 00:00:45,730
+17. click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/button_ADD TO CART"))
+
+6
+00:00:45,731 --> 00:00:46,405
+21. click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/button_CHECKOUT  (1,261.99)"))
+
+7
+00:00:46,406 --> 00:00:47,624
+25. setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_usernameInOrderPayment"), "nicehsk")
+
+8
+00:00:47,625 --> 00:00:48,818
+29. setEncryptedText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_passwordInOrderPayment"), "IUzobqKA7NU0EdNVQvmFCA==")
+
+9
+00:00:48,819 --> 00:00:49,382
+33. click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/button_LOGIN"))
+
+10
+00:00:49,382 --> 00:00:53,874
+37. click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/a_Edit shipping details"))
+
+11
+00:00:53,874 --> 00:00:54,990
+41. setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_first_name"), "Budi")
+
+12
+00:00:54,991 --> 00:00:56,122
+45. setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_last_name"), "Saja")
+
+13
+00:00:56,123 --> 00:00:57,239
+49. setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_phone_number"), "00000000000")
+
+14
+00:00:57,240 --> 00:00:58,093
+53. selectOptionByLabel(findTestObject("TC1/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a"), "Indonesia", false)
+
+15
+00:00:58,094 --> 00:00:59,204
+57. setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_city"), "Jakarta")
+
+16
+00:00:59,204 --> 00:01:00,329
+61. setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_address"), "Jakarta")
+
+17
+00:01:00,329 --> 00:01:01,431
+65. setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_postal_code"), "0000")
+
+18
+00:01:01,431 --> 00:01:02,552
+69. setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_state__province__region"), "Jakarta")
+
+19
+00:01:02,553 --> 00:01:03,113
+73. click(findTestObject("TC 1-2/Page_Advantage Shopping/button_NEXT"))
+
+20
+00:01:03,114 --> 00:01:06,951
+77. click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/button_PAY NOW"))
+
+21
+00:01:06,951 --> 00:01:08,128
+81. verifyElementPresent(findTestObject("Object Repository/TC1/Page_Advantage Shopping/h2_Thank you for buying with Advantage"), 0)
+
+22
+00:01:08,128 --> 00:01:11,165
+85. delay(3)
+
+23
+00:01:11,165 --> 00:01:11,348
+89. closeBrowser()
+

@@ -1,0 +1,104 @@
+1
+00:00:00,053 --> 00:00:00,693
+1. openBrowser("")
+
+2
+00:00:00,694 --> 00:00:07,658
+5. navigateToUrl("https://advantageonlineshopping.com/")
+
+3
+00:00:07,659 --> 00:00:12,297
+9. click(findTestObject("TC 2/Page_Advantage Shopping/a_My account                        My orders                        Sign out"))
+
+4
+00:00:12,298 --> 00:00:13,177
+13. setText(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/input_username"), "nicehsk")
+
+5
+00:00:13,177 --> 00:00:14,368
+17. setEncryptedText(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/input_password"), "IUzobqKA7NU0EdNVQvmFCA==")
+
+6
+00:00:14,368 --> 00:00:14,916
+21. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_SIGN IN"))
+
+7
+00:00:14,917 --> 00:00:18,462
+25. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/div_SPEAKERS                        Shop Now"))
+
+8
+00:00:18,463 --> 00:00:20,808
+29. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _e4d6fd"))
+
+9
+00:00:20,809 --> 00:00:23,846
+33. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART"))
+
+10
+00:00:23,847 --> 00:00:26,084
+37. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/a_HOME"))
+
+11
+00:00:26,085 --> 00:00:30,907
+41. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/div_HEADPHONES                        Shop Now"))
+
+12
+00:00:30,908 --> 00:00:31,500
+45. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _ad00b0"))
+
+13
+00:00:31,501 --> 00:00:37,288
+49. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART"))
+
+14
+00:00:37,288 --> 00:00:39,501
+53. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/a_HOME"))
+
+15
+00:00:39,502 --> 00:00:40,074
+57. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/div_MICE                        Shop Now"))
+
+16
+00:00:40,074 --> 00:00:40,641
+61. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _269779"))
+
+17
+00:00:40,642 --> 00:00:41,184
+65. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/div_plus"))
+
+18
+00:00:41,185 --> 00:00:41,513
+69. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART"))
+
+19
+00:00:41,514 --> 00:00:44,384
+73. click(findTestObject("TC 2/Page_Advantage Shopping/a_0"))
+
+20
+00:00:44,384 --> 00:00:47,027
+77. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_CHECKOUT (2,170.94)"))
+
+21
+00:00:47,027 --> 00:00:51,793
+81. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_NEXT"))
+
+22
+00:00:51,794 --> 00:00:52,338
+85. click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_PAY NOW"))
+
+23
+00:00:52,339 --> 00:00:55,031
+89. verifyElementPresent(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/h2_Thank you for buying with Advantage"), 0)
+
+24
+00:00:55,032 --> 00:00:55,345
+93. verifyElementText(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/label_Budi Saja"), "Budi Saja")
+
+25
+00:00:55,345 --> 00:00:58,355
+97. delay(3)
+
+26
+00:00:58,356 --> 00:00:58,543
+101. closeBrowser()
+
