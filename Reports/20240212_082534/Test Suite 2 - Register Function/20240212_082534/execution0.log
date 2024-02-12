@@ -2024,3 +2024,2662 @@ Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text &amp;
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
+<record>
+  <date>2024-02-12T03:41:22.831110800Z</date>
+  <millis>1707709282831</millis>
+  <nanos>110800</nanos>
+  <sequence>5448</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>962</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:41:28.172704400Z</date>
+  <millis>1707709288172</millis>
+  <nanos>704400</nanos>
+  <sequence>5449</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>962</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:41:28.217348500Z</date>
+  <millis>1707709288217</millis>
+  <nanos>348500</nanos>
+  <sequence>5450</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>962</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:41:28.218326700Z</date>
+  <millis>1707709288218</millis>
+  <nanos>326700</nanos>
+  <sequence>5451</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>962</thread>
+  <message>appium outlog: C:\Users\skyne\git\Final-Project---Webtesting\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:41:28.218326700Z</date>
+  <millis>1707709288218</millis>
+  <nanos>326700</nanos>
+  <sequence>5452</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>962</thread>
+  <message>appium errlog: C:\Users\skyne\git\Final-Project---Webtesting\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:41:30.556056500Z</date>
+  <millis>1707709290556</millis>
+  <nanos>56500</nanos>
+  <sequence>5453</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>962</thread>
+  <message>Appium server started on port 7,934</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:41:30.739229200Z</date>
+  <millis>1707709290739</millis>
+  <nanos>229200</nanos>
+  <sequence>5454</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>962</thread>
+  <message>deviceId = emulator-5554</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">emulator-5554</property>
+</record>
+<record>
+  <date>2024-02-12T03:41:30.739229200Z</date>
+  <millis>1707709290739</millis>
+  <nanos>229200</nanos>
+  <sequence>5455</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>962</thread>
+  <message>deviceName = emulator-5554 (SM-S908E - Android 11)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">emulator-5554 (SM-S908E - Android 11)</property>
+</record>
+<record>
+  <date>2024-02-12T03:41:30.739229200Z</date>
+  <millis>1707709290739</millis>
+  <nanos>229200</nanos>
+  <sequence>5456</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>962</thread>
+  <message>deviceModel = SM-S908E</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">SM-S908E</property>
+</record>
+<record>
+  <date>2024-02-12T03:41:30.739229200Z</date>
+  <millis>1707709290739</millis>
+  <nanos>229200</nanos>
+  <sequence>5457</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>962</thread>
+  <message>deviceManufacturer = samsung</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">samsung</property>
+</record>
+<record>
+  <date>2024-02-12T03:41:30.740203700Z</date>
+  <millis>1707709290740</millis>
+  <nanos>203700</nanos>
+  <sequence>5458</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>962</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T03:41:30.740203700Z</date>
+  <millis>1707709290740</millis>
+  <nanos>203700</nanos>
+  <sequence>5459</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>962</thread>
+  <message>deviceOSVersion = 11</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">11</property>
+</record>
+<record>
+  <date>2024-02-12T03:41:56.189512800Z</date>
+  <millis>1707709316189</millis>
+  <nanos>512800</nanos>
+  <sequence>5464</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>979</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:42:01.519508500Z</date>
+  <millis>1707709321519</millis>
+  <nanos>508500</nanos>
+  <sequence>5465</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>979</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:42:01.520487400Z</date>
+  <millis>1707709321520</millis>
+  <nanos>487400</nanos>
+  <sequence>5466</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>979</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:42:01.520487400Z</date>
+  <millis>1707709321520</millis>
+  <nanos>487400</nanos>
+  <sequence>5467</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>979</thread>
+  <message>appium outlog: C:\Users\skyne\git\Final-Project---Webtesting\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:42:01.520487400Z</date>
+  <millis>1707709321520</millis>
+  <nanos>487400</nanos>
+  <sequence>5468</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>979</thread>
+  <message>appium errlog: C:\Users\skyne\git\Final-Project---Webtesting\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:42:03.203985600Z</date>
+  <millis>1707709323203</millis>
+  <nanos>985600</nanos>
+  <sequence>5469</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>979</thread>
+  <message>Appium server started on port 7,990</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:42:03.273319900Z</date>
+  <millis>1707709323273</millis>
+  <nanos>319900</nanos>
+  <sequence>5470</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>979</thread>
+  <message>deviceId = emulator-5554</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">emulator-5554</property>
+</record>
+<record>
+  <date>2024-02-12T03:42:03.273319900Z</date>
+  <millis>1707709323273</millis>
+  <nanos>319900</nanos>
+  <sequence>5471</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>979</thread>
+  <message>deviceName = emulator-5554 (SM-S908E - Android 11)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">emulator-5554 (SM-S908E - Android 11)</property>
+</record>
+<record>
+  <date>2024-02-12T03:42:03.273319900Z</date>
+  <millis>1707709323273</millis>
+  <nanos>319900</nanos>
+  <sequence>5472</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>979</thread>
+  <message>deviceModel = SM-S908E</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">SM-S908E</property>
+</record>
+<record>
+  <date>2024-02-12T03:42:03.273319900Z</date>
+  <millis>1707709323273</millis>
+  <nanos>319900</nanos>
+  <sequence>5473</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>979</thread>
+  <message>deviceManufacturer = samsung</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">samsung</property>
+</record>
+<record>
+  <date>2024-02-12T03:42:03.274295700Z</date>
+  <millis>1707709323274</millis>
+  <nanos>295700</nanos>
+  <sequence>5474</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>979</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T03:42:03.274295700Z</date>
+  <millis>1707709323274</millis>
+  <nanos>295700</nanos>
+  <sequence>5475</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>979</thread>
+  <message>deviceOSVersion = 11</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">11</property>
+</record>
+<record>
+  <date>2024-02-12T03:42:59.158164200Z</date>
+  <millis>1707709379158</millis>
+  <nanos>164200</nanos>
+  <sequence>5480</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>985</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:43:04.489401100Z</date>
+  <millis>1707709384489</millis>
+  <nanos>401100</nanos>
+  <sequence>5481</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>985</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:43:04.489401100Z</date>
+  <millis>1707709384489</millis>
+  <nanos>401100</nanos>
+  <sequence>5482</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>985</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:43:04.490401100Z</date>
+  <millis>1707709384490</millis>
+  <nanos>401100</nanos>
+  <sequence>5483</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>985</thread>
+  <message>appium outlog: C:\Users\skyne\git\Final-Project---Webtesting\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:43:04.490401100Z</date>
+  <millis>1707709384490</millis>
+  <nanos>401100</nanos>
+  <sequence>5484</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>985</thread>
+  <message>appium errlog: C:\Users\skyne\git\Final-Project---Webtesting\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:43:05.849351200Z</date>
+  <millis>1707709385849</millis>
+  <nanos>351200</nanos>
+  <sequence>5485</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>985</thread>
+  <message>Appium server started on port 8,084</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:43:05.921247100Z</date>
+  <millis>1707709385921</millis>
+  <nanos>247100</nanos>
+  <sequence>5486</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>985</thread>
+  <message>deviceId = emulator-5554</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">emulator-5554</property>
+</record>
+<record>
+  <date>2024-02-12T03:43:05.921247100Z</date>
+  <millis>1707709385921</millis>
+  <nanos>247100</nanos>
+  <sequence>5487</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>985</thread>
+  <message>deviceName = emulator-5554 (SM-S908E - Android 11)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">emulator-5554 (SM-S908E - Android 11)</property>
+</record>
+<record>
+  <date>2024-02-12T03:43:05.922214200Z</date>
+  <millis>1707709385922</millis>
+  <nanos>214200</nanos>
+  <sequence>5488</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>985</thread>
+  <message>deviceModel = SM-S908E</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">SM-S908E</property>
+</record>
+<record>
+  <date>2024-02-12T03:43:05.922214200Z</date>
+  <millis>1707709385922</millis>
+  <nanos>214200</nanos>
+  <sequence>5489</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>985</thread>
+  <message>deviceManufacturer = samsung</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">samsung</property>
+</record>
+<record>
+  <date>2024-02-12T03:43:05.922214200Z</date>
+  <millis>1707709385922</millis>
+  <nanos>214200</nanos>
+  <sequence>5490</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>985</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T03:43:05.922214200Z</date>
+  <millis>1707709385922</millis>
+  <nanos>214200</nanos>
+  <sequence>5491</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>985</thread>
+  <message>deviceOSVersion = 11</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">11</property>
+</record>
+<record>
+  <date>2024-02-12T03:45:27.822496100Z</date>
+  <millis>1707709527822</millis>
+  <nanos>496100</nanos>
+  <sequence>5496</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>994</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:45:33.149267300Z</date>
+  <millis>1707709533149</millis>
+  <nanos>267300</nanos>
+  <sequence>5497</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>994</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:45:33.150245900Z</date>
+  <millis>1707709533150</millis>
+  <nanos>245900</nanos>
+  <sequence>5498</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>994</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:45:33.150245900Z</date>
+  <millis>1707709533150</millis>
+  <nanos>245900</nanos>
+  <sequence>5499</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>994</thread>
+  <message>appium outlog: C:\Users\skyne\git\Final-Project---Webtesting\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:45:33.150245900Z</date>
+  <millis>1707709533150</millis>
+  <nanos>245900</nanos>
+  <sequence>5500</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>994</thread>
+  <message>appium errlog: C:\Users\skyne\git\Final-Project---Webtesting\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:45:35.501144600Z</date>
+  <millis>1707709535501</millis>
+  <nanos>144600</nanos>
+  <sequence>5501</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>994</thread>
+  <message>Appium server started on port 8,337</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T03:46:09.355954400Z</date>
+  <millis>1707709569355</millis>
+  <nanos>954400</nanos>
+  <sequence>5502</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>994</thread>
+  <message>deviceId = emulator-5554</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">emulator-5554</property>
+</record>
+<record>
+  <date>2024-02-12T03:46:09.355954400Z</date>
+  <millis>1707709569355</millis>
+  <nanos>954400</nanos>
+  <sequence>5503</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>994</thread>
+  <message>deviceName = emulator-5554 (SM-S908E - Android 11)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">emulator-5554 (SM-S908E - Android 11)</property>
+</record>
+<record>
+  <date>2024-02-12T03:46:09.356932100Z</date>
+  <millis>1707709569356</millis>
+  <nanos>932100</nanos>
+  <sequence>5504</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>994</thread>
+  <message>deviceModel = SM-S908E</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">SM-S908E</property>
+</record>
+<record>
+  <date>2024-02-12T03:46:09.356932100Z</date>
+  <millis>1707709569356</millis>
+  <nanos>932100</nanos>
+  <sequence>5505</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>994</thread>
+  <message>deviceManufacturer = samsung</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">samsung</property>
+</record>
+<record>
+  <date>2024-02-12T03:46:09.356932100Z</date>
+  <millis>1707709569356</millis>
+  <nanos>932100</nanos>
+  <sequence>5506</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>994</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T03:46:09.356932100Z</date>
+  <millis>1707709569356</millis>
+  <nanos>932100</nanos>
+  <sequence>5507</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>994</thread>
+  <message>deviceOSVersion = 11</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">11</property>
+</record>
+<record>
+  <date>2024-02-12T04:09:04.266792200Z</date>
+  <millis>1707710944266</millis>
+  <nanos>792200</nanos>
+  <sequence>5512</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1073</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:09:09.669096700Z</date>
+  <millis>1707710949669</millis>
+  <nanos>96700</nanos>
+  <sequence>5513</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1073</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:09:09.670106400Z</date>
+  <millis>1707710949670</millis>
+  <nanos>106400</nanos>
+  <sequence>5514</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1073</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:09:09.671090200Z</date>
+  <millis>1707710949671</millis>
+  <nanos>90200</nanos>
+  <sequence>5515</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1073</thread>
+  <message>appium outlog: C:\Users\skyne\git\Final-Project---Webtesting\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:09:09.671090200Z</date>
+  <millis>1707710949671</millis>
+  <nanos>90200</nanos>
+  <sequence>5516</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1073</thread>
+  <message>appium errlog: C:\Users\skyne\git\Final-Project---Webtesting\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:09:12.040264200Z</date>
+  <millis>1707710952040</millis>
+  <nanos>264200</nanos>
+  <sequence>5517</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1073</thread>
+  <message>Appium server started on port 10,747</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:09:12.941679200Z</date>
+  <millis>1707710952941</millis>
+  <nanos>679200</nanos>
+  <sequence>5518</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1073</thread>
+  <message>deviceId = 172.16.213.197:39461</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">172.16.213.197:39461</property>
+</record>
+<record>
+  <date>2024-02-12T04:09:12.941679200Z</date>
+  <millis>1707710952941</millis>
+  <nanos>679200</nanos>
+  <sequence>5519</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1073</thread>
+  <message>deviceName = realme RMX3572 (Android 13)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">realme RMX3572 (Android 13)</property>
+</record>
+<record>
+  <date>2024-02-12T04:09:12.942688800Z</date>
+  <millis>1707710952942</millis>
+  <nanos>688800</nanos>
+  <sequence>5520</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1073</thread>
+  <message>deviceModel = RMX3572</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">RMX3572</property>
+</record>
+<record>
+  <date>2024-02-12T04:09:12.942688800Z</date>
+  <millis>1707710952942</millis>
+  <nanos>688800</nanos>
+  <sequence>5521</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1073</thread>
+  <message>deviceManufacturer = realme</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">realme</property>
+</record>
+<record>
+  <date>2024-02-12T04:09:12.942688800Z</date>
+  <millis>1707710952942</millis>
+  <nanos>688800</nanos>
+  <sequence>5522</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1073</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T04:09:12.942688800Z</date>
+  <millis>1707710952942</millis>
+  <nanos>688800</nanos>
+  <sequence>5523</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1073</thread>
+  <message>deviceOSVersion = 13</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">13</property>
+</record>
+<record>
+  <date>2024-02-12T04:11:16.438880Z</date>
+  <millis>1707711076438</millis>
+  <nanos>880000</nanos>
+  <sequence>5528</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1090</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:11:21.832193800Z</date>
+  <millis>1707711081832</millis>
+  <nanos>193800</nanos>
+  <sequence>5529</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1090</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:11:21.833198600Z</date>
+  <millis>1707711081833</millis>
+  <nanos>198600</nanos>
+  <sequence>5530</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1090</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:11:21.833198600Z</date>
+  <millis>1707711081833</millis>
+  <nanos>198600</nanos>
+  <sequence>5531</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1090</thread>
+  <message>appium outlog: C:\Users\skyne\git\Final-Project---Webtesting\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:11:21.833198600Z</date>
+  <millis>1707711081833</millis>
+  <nanos>198600</nanos>
+  <sequence>5532</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1090</thread>
+  <message>appium errlog: C:\Users\skyne\git\Final-Project---Webtesting\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:11:23.871524500Z</date>
+  <millis>1707711083871</millis>
+  <nanos>524500</nanos>
+  <sequence>5533</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1090</thread>
+  <message>Appium server started on port 11,028</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:11:24.740514Z</date>
+  <millis>1707711084740</millis>
+  <nanos>514000</nanos>
+  <sequence>5534</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1090</thread>
+  <message>deviceId = 172.16.213.197:39461</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">172.16.213.197:39461</property>
+</record>
+<record>
+  <date>2024-02-12T04:11:24.740514Z</date>
+  <millis>1707711084740</millis>
+  <nanos>514000</nanos>
+  <sequence>5535</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1090</thread>
+  <message>deviceName = realme RMX3572 (Android 13)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">realme RMX3572 (Android 13)</property>
+</record>
+<record>
+  <date>2024-02-12T04:11:24.740514Z</date>
+  <millis>1707711084740</millis>
+  <nanos>514000</nanos>
+  <sequence>5536</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1090</thread>
+  <message>deviceModel = RMX3572</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">RMX3572</property>
+</record>
+<record>
+  <date>2024-02-12T04:11:24.741509600Z</date>
+  <millis>1707711084741</millis>
+  <nanos>509600</nanos>
+  <sequence>5537</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1090</thread>
+  <message>deviceManufacturer = realme</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">realme</property>
+</record>
+<record>
+  <date>2024-02-12T04:11:24.741509600Z</date>
+  <millis>1707711084741</millis>
+  <nanos>509600</nanos>
+  <sequence>5538</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1090</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T04:11:24.741509600Z</date>
+  <millis>1707711084741</millis>
+  <nanos>509600</nanos>
+  <sequence>5539</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1090</thread>
+  <message>deviceOSVersion = 13</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">13</property>
+</record>
+<record>
+  <date>2024-02-12T04:12:48.850873900Z</date>
+  <millis>1707711168850</millis>
+  <nanos>873900</nanos>
+  <sequence>5544</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:12:54.237291500Z</date>
+  <millis>1707711174237</millis>
+  <nanos>291500</nanos>
+  <sequence>5545</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:12:54.237291500Z</date>
+  <millis>1707711174237</millis>
+  <nanos>291500</nanos>
+  <sequence>5546</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:12:54.238323400Z</date>
+  <millis>1707711174238</millis>
+  <nanos>323400</nanos>
+  <sequence>5547</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>appium outlog: C:\Users\skyne\git\Final-Project---Webtesting\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:12:54.238323400Z</date>
+  <millis>1707711174238</millis>
+  <nanos>323400</nanos>
+  <sequence>5548</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>appium errlog: C:\Users\skyne\git\Final-Project---Webtesting\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:12:56.606782600Z</date>
+  <millis>1707711176606</millis>
+  <nanos>782600</nanos>
+  <sequence>5549</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>Appium server started on port 11,217</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:13:15.882828700Z</date>
+  <millis>1707711195882</millis>
+  <nanos>828700</nanos>
+  <sequence>5551</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>appiumVersion = 2.5.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">2.5.0</property>
+</record>
+<record>
+  <date>2024-02-12T04:13:15.882828700Z</date>
+  <millis>1707711195882</millis>
+  <nanos>828700</nanos>
+  <sequence>5552</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;ready&amp;quot;:true,&amp;quot;message&amp;quot;:&amp;quot;The server is ready to accept new connections&amp;quot;,&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;2.5.0&amp;quot;}}}</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;ready&quot;:true,&quot;message&quot;:&quot;The server is ready to accept new connections&quot;,&quot;build&quot;:{&quot;version&quot;:&quot;2.5.0&quot;}}}</property>
+</record>
+<record>
+  <date>2024-02-12T04:13:15.891833800Z</date>
+  <millis>1707711195891</millis>
+  <nanos>833800</nanos>
+  <sequence>5553</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>deviceId = 172.16.213.197:39461</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">172.16.213.197:39461</property>
+</record>
+<record>
+  <date>2024-02-12T04:13:15.892830700Z</date>
+  <millis>1707711195892</millis>
+  <nanos>830700</nanos>
+  <sequence>5554</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>deviceName = realme RMX3572 (Android 13)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">realme RMX3572 (Android 13)</property>
+</record>
+<record>
+  <date>2024-02-12T04:13:15.892830700Z</date>
+  <millis>1707711195892</millis>
+  <nanos>830700</nanos>
+  <sequence>5555</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>deviceModel = RMX3572</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">RMX3572</property>
+</record>
+<record>
+  <date>2024-02-12T04:13:15.892830700Z</date>
+  <millis>1707711195892</millis>
+  <nanos>830700</nanos>
+  <sequence>5556</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>deviceManufacturer = realme</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">realme</property>
+</record>
+<record>
+  <date>2024-02-12T04:13:15.893829Z</date>
+  <millis>1707711195893</millis>
+  <nanos>829000</nanos>
+  <sequence>5557</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T04:13:15.893829Z</date>
+  <millis>1707711195893</millis>
+  <nanos>829000</nanos>
+  <sequence>5558</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1101</thread>
+  <message>deviceOSVersion = 13</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">13</property>
+</record>
+<record>
+  <date>2024-02-12T04:16:42.995762100Z</date>
+  <millis>1707711402995</millis>
+  <nanos>762100</nanos>
+  <sequence>5559</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:16:48.364205600Z</date>
+  <millis>1707711408364</millis>
+  <nanos>205600</nanos>
+  <sequence>5560</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:16:48.365205500Z</date>
+  <millis>1707711408365</millis>
+  <nanos>205500</nanos>
+  <sequence>5561</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:16:48.365205500Z</date>
+  <millis>1707711408365</millis>
+  <nanos>205500</nanos>
+  <sequence>5562</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>appium outlog: C:\Users\skyne\git\Final-Project---Webtesting\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:16:48.365205500Z</date>
+  <millis>1707711408365</millis>
+  <nanos>205500</nanos>
+  <sequence>5563</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>appium errlog: C:\Users\skyne\git\Final-Project---Webtesting\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:16:50.403910900Z</date>
+  <millis>1707711410403</millis>
+  <nanos>910900</nanos>
+  <sequence>5564</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>Appium server started on port 11,729</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:16:57.481425900Z</date>
+  <millis>1707711417481</millis>
+  <nanos>425900</nanos>
+  <sequence>5566</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>appiumVersion = 2.5.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">2.5.0</property>
+</record>
+<record>
+  <date>2024-02-12T04:16:57.481425900Z</date>
+  <millis>1707711417481</millis>
+  <nanos>425900</nanos>
+  <sequence>5567</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;ready&amp;quot;:true,&amp;quot;message&amp;quot;:&amp;quot;The server is ready to accept new connections&amp;quot;,&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;2.5.0&amp;quot;}}}</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;ready&quot;:true,&quot;message&quot;:&quot;The server is ready to accept new connections&quot;,&quot;build&quot;:{&quot;version&quot;:&quot;2.5.0&quot;}}}</property>
+</record>
+<record>
+  <date>2024-02-12T04:16:57.487415300Z</date>
+  <millis>1707711417487</millis>
+  <nanos>415300</nanos>
+  <sequence>5568</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>deviceId = 172.16.213.197:39461</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">172.16.213.197:39461</property>
+</record>
+<record>
+  <date>2024-02-12T04:16:57.488420400Z</date>
+  <millis>1707711417488</millis>
+  <nanos>420400</nanos>
+  <sequence>5569</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>deviceName = realme RMX3572 (Android 13)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">realme RMX3572 (Android 13)</property>
+</record>
+<record>
+  <date>2024-02-12T04:16:57.488420400Z</date>
+  <millis>1707711417488</millis>
+  <nanos>420400</nanos>
+  <sequence>5570</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>deviceModel = RMX3572</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">RMX3572</property>
+</record>
+<record>
+  <date>2024-02-12T04:16:57.488420400Z</date>
+  <millis>1707711417488</millis>
+  <nanos>420400</nanos>
+  <sequence>5571</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>deviceManufacturer = realme</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">realme</property>
+</record>
+<record>
+  <date>2024-02-12T04:16:57.488420400Z</date>
+  <millis>1707711417488</millis>
+  <nanos>420400</nanos>
+  <sequence>5572</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T04:16:57.489409Z</date>
+  <millis>1707711417489</millis>
+  <nanos>409000</nanos>
+  <sequence>5573</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1130</thread>
+  <message>deviceOSVersion = 13</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">13</property>
+</record>
+<record>
+  <date>2024-02-12T04:17:38.276803200Z</date>
+  <millis>1707711458276</millis>
+  <nanos>803200</nanos>
+  <sequence>5574</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:17:43.652328100Z</date>
+  <millis>1707711463652</millis>
+  <nanos>328100</nanos>
+  <sequence>5575</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:17:43.653329100Z</date>
+  <millis>1707711463653</millis>
+  <nanos>329100</nanos>
+  <sequence>5576</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:17:43.653329100Z</date>
+  <millis>1707711463653</millis>
+  <nanos>329100</nanos>
+  <sequence>5577</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>appium outlog: C:\Users\skyne\git\Final-Project---Webtesting\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:17:43.653329100Z</date>
+  <millis>1707711463653</millis>
+  <nanos>329100</nanos>
+  <sequence>5578</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>appium errlog: C:\Users\skyne\git\Final-Project---Webtesting\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:17:45.687621500Z</date>
+  <millis>1707711465687</millis>
+  <nanos>621500</nanos>
+  <sequence>5579</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>Appium server started on port 11,998</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:17:53.156678500Z</date>
+  <millis>1707711473156</millis>
+  <nanos>678500</nanos>
+  <sequence>5581</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>appiumVersion = 2.5.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">2.5.0</property>
+</record>
+<record>
+  <date>2024-02-12T04:17:53.156678500Z</date>
+  <millis>1707711473156</millis>
+  <nanos>678500</nanos>
+  <sequence>5582</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;ready&amp;quot;:true,&amp;quot;message&amp;quot;:&amp;quot;The server is ready to accept new connections&amp;quot;,&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;2.5.0&amp;quot;}}}</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;ready&quot;:true,&quot;message&quot;:&quot;The server is ready to accept new connections&quot;,&quot;build&quot;:{&quot;version&quot;:&quot;2.5.0&quot;}}}</property>
+</record>
+<record>
+  <date>2024-02-12T04:17:53.162660300Z</date>
+  <millis>1707711473162</millis>
+  <nanos>660300</nanos>
+  <sequence>5583</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>deviceId = 172.16.213.197:39461</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">172.16.213.197:39461</property>
+</record>
+<record>
+  <date>2024-02-12T04:17:53.162660300Z</date>
+  <millis>1707711473162</millis>
+  <nanos>660300</nanos>
+  <sequence>5584</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>deviceName = realme RMX3572 (Android 13)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">realme RMX3572 (Android 13)</property>
+</record>
+<record>
+  <date>2024-02-12T04:17:53.163663300Z</date>
+  <millis>1707711473163</millis>
+  <nanos>663300</nanos>
+  <sequence>5585</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>deviceModel = RMX3572</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">RMX3572</property>
+</record>
+<record>
+  <date>2024-02-12T04:17:53.163663300Z</date>
+  <millis>1707711473163</millis>
+  <nanos>663300</nanos>
+  <sequence>5586</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>deviceManufacturer = realme</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">realme</property>
+</record>
+<record>
+  <date>2024-02-12T04:17:53.163663300Z</date>
+  <millis>1707711473163</millis>
+  <nanos>663300</nanos>
+  <sequence>5587</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T04:17:53.163663300Z</date>
+  <millis>1707711473163</millis>
+  <nanos>663300</nanos>
+  <sequence>5588</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1142</thread>
+  <message>deviceOSVersion = 13</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">13</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:04.530466400Z</date>
+  <millis>1707711664530</millis>
+  <nanos>466400</nanos>
+  <sequence>5591</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1164</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:21:09.927845100Z</date>
+  <millis>1707711669927</millis>
+  <nanos>845100</nanos>
+  <sequence>5592</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1164</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:21:09.927845100Z</date>
+  <millis>1707711669927</millis>
+  <nanos>845100</nanos>
+  <sequence>5593</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1164</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:21:09.928835Z</date>
+  <millis>1707711669928</millis>
+  <nanos>835000</nanos>
+  <sequence>5594</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1164</thread>
+  <message>appium outlog: C:\Users\skyne\git\Final-Project---Webtesting\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:21:09.928835Z</date>
+  <millis>1707711669928</millis>
+  <nanos>835000</nanos>
+  <sequence>5595</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1164</thread>
+  <message>appium errlog: C:\Users\skyne\git\Final-Project---Webtesting\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:21:11.953791900Z</date>
+  <millis>1707711671953</millis>
+  <nanos>791900</nanos>
+  <sequence>5596</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1164</thread>
+  <message>Appium server started on port 12,446</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:21:12.090188800Z</date>
+  <millis>1707711672090</millis>
+  <nanos>188800</nanos>
+  <sequence>5597</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1164</thread>
+  <message>deviceId = 172.16.213.197:39461</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">172.16.213.197:39461</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:12.091192200Z</date>
+  <millis>1707711672091</millis>
+  <nanos>192200</nanos>
+  <sequence>5598</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1164</thread>
+  <message>deviceName = realme RMX3572 (Android 13)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">realme RMX3572 (Android 13)</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:12.091192200Z</date>
+  <millis>1707711672091</millis>
+  <nanos>192200</nanos>
+  <sequence>5599</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1164</thread>
+  <message>deviceModel = RMX3572</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">RMX3572</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:12.091192200Z</date>
+  <millis>1707711672091</millis>
+  <nanos>192200</nanos>
+  <sequence>5600</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1164</thread>
+  <message>deviceManufacturer = realme</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">realme</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:12.091192200Z</date>
+  <millis>1707711672091</millis>
+  <nanos>192200</nanos>
+  <sequence>5601</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1164</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:12.092200200Z</date>
+  <millis>1707711672092</millis>
+  <nanos>200200</nanos>
+  <sequence>5602</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1164</thread>
+  <message>deviceOSVersion = 13</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">13</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:24.360611200Z</date>
+  <millis>1707711684360</millis>
+  <nanos>611200</nanos>
+  <sequence>5607</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:21:24.362611700Z</date>
+  <millis>1707711684362</millis>
+  <nanos>611700</nanos>
+  <sequence>5608</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:21:24.362611700Z</date>
+  <millis>1707711684362</millis>
+  <nanos>611700</nanos>
+  <sequence>5609</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:21:24.362611700Z</date>
+  <millis>1707711684362</millis>
+  <nanos>611700</nanos>
+  <sequence>5610</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>appium outlog: C:\Users\skyne\git\Final-Project---Webtesting\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:21:24.363614200Z</date>
+  <millis>1707711684363</millis>
+  <nanos>614200</nanos>
+  <sequence>5611</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>appium errlog: C:\Users\skyne\git\Final-Project---Webtesting\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:21:26.741797500Z</date>
+  <millis>1707711686741</millis>
+  <nanos>797500</nanos>
+  <sequence>5612</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>Appium server started on port 12,540</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:21:34.368734300Z</date>
+  <millis>1707711694368</millis>
+  <nanos>734300</nanos>
+  <sequence>5614</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>appiumVersion = 2.5.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">2.5.0</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:34.369729900Z</date>
+  <millis>1707711694369</millis>
+  <nanos>729900</nanos>
+  <sequence>5615</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;ready&amp;quot;:true,&amp;quot;message&amp;quot;:&amp;quot;The server is ready to accept new connections&amp;quot;,&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;2.5.0&amp;quot;}}}</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;ready&quot;:true,&quot;message&quot;:&quot;The server is ready to accept new connections&quot;,&quot;build&quot;:{&quot;version&quot;:&quot;2.5.0&quot;}}}</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:34.375764200Z</date>
+  <millis>1707711694375</millis>
+  <nanos>764200</nanos>
+  <sequence>5616</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>deviceId = 172.16.213.197:41333</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">172.16.213.197:41333</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:34.376753900Z</date>
+  <millis>1707711694376</millis>
+  <nanos>753900</nanos>
+  <sequence>5617</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>deviceName = realme RMX3572 (Android 13)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">realme RMX3572 (Android 13)</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:34.376753900Z</date>
+  <millis>1707711694376</millis>
+  <nanos>753900</nanos>
+  <sequence>5618</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>deviceModel = RMX3572</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">RMX3572</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:34.376753900Z</date>
+  <millis>1707711694376</millis>
+  <nanos>753900</nanos>
+  <sequence>5619</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>deviceManufacturer = realme</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">realme</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:34.376753900Z</date>
+  <millis>1707711694376</millis>
+  <nanos>753900</nanos>
+  <sequence>5620</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T04:21:34.376753900Z</date>
+  <millis>1707711694376</millis>
+  <nanos>753900</nanos>
+  <sequence>5621</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1177</thread>
+  <message>deviceOSVersion = 13</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">13</property>
+</record>
+<record>
+  <date>2024-02-12T04:24:44.738606700Z</date>
+  <millis>1707711884738</millis>
+  <nanos>606700</nanos>
+  <sequence>5622</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1187</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:28:16.189148900Z</date>
+  <millis>1707712096189</millis>
+  <nanos>148900</nanos>
+  <sequence>5625</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:28:21.589858800Z</date>
+  <millis>1707712101589</millis>
+  <nanos>858800</nanos>
+  <sequence>5626</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:28:21.589858800Z</date>
+  <millis>1707712101589</millis>
+  <nanos>858800</nanos>
+  <sequence>5627</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:28:21.590858600Z</date>
+  <millis>1707712101590</millis>
+  <nanos>858600</nanos>
+  <sequence>5628</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>appium outlog: C:\Users\skyne\git\Final-Project---Webtesting\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:28:21.590858600Z</date>
+  <millis>1707712101590</millis>
+  <nanos>858600</nanos>
+  <sequence>5629</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>appium errlog: C:\Users\skyne\git\Final-Project---Webtesting\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:28:23.614739300Z</date>
+  <millis>1707712103614</millis>
+  <nanos>739300</nanos>
+  <sequence>5630</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>Appium server started on port 13,351</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:28:31.324468900Z</date>
+  <millis>1707712111324</millis>
+  <nanos>468900</nanos>
+  <sequence>5632</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>appiumVersion = 2.5.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">2.5.0</property>
+</record>
+<record>
+  <date>2024-02-12T04:28:31.325475900Z</date>
+  <millis>1707712111325</millis>
+  <nanos>475900</nanos>
+  <sequence>5633</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;ready&amp;quot;:true,&amp;quot;message&amp;quot;:&amp;quot;The server is ready to accept new connections&amp;quot;,&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;2.5.0&amp;quot;}}}</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;ready&quot;:true,&quot;message&quot;:&quot;The server is ready to accept new connections&quot;,&quot;build&quot;:{&quot;version&quot;:&quot;2.5.0&quot;}}}</property>
+</record>
+<record>
+  <date>2024-02-12T04:28:31.331473100Z</date>
+  <millis>1707712111331</millis>
+  <nanos>473100</nanos>
+  <sequence>5634</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>deviceId = DQROLNJZNNVKEUDI</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">DQROLNJZNNVKEUDI</property>
+</record>
+<record>
+  <date>2024-02-12T04:28:31.331473100Z</date>
+  <millis>1707712111331</millis>
+  <nanos>473100</nanos>
+  <sequence>5635</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>deviceName = realme RMX3572 (Android 13)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">realme RMX3572 (Android 13)</property>
+</record>
+<record>
+  <date>2024-02-12T04:28:31.332469500Z</date>
+  <millis>1707712111332</millis>
+  <nanos>469500</nanos>
+  <sequence>5636</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>deviceModel = RMX3572</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">RMX3572</property>
+</record>
+<record>
+  <date>2024-02-12T04:28:31.332469500Z</date>
+  <millis>1707712111332</millis>
+  <nanos>469500</nanos>
+  <sequence>5637</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>deviceManufacturer = realme</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">realme</property>
+</record>
+<record>
+  <date>2024-02-12T04:28:31.332469500Z</date>
+  <millis>1707712111332</millis>
+  <nanos>469500</nanos>
+  <sequence>5638</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T04:28:31.332469500Z</date>
+  <millis>1707712111332</millis>
+  <nanos>469500</nanos>
+  <sequence>5639</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1215</thread>
+  <message>deviceOSVersion = 13</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">13</property>
+</record>
+<record>
+  <date>2024-02-12T04:42:21.327436900Z</date>
+  <millis>1707712941327</millis>
+  <nanos>436900</nanos>
+  <sequence>5711</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:42:26.705943Z</date>
+  <millis>1707712946705</millis>
+  <nanos>943000</nanos>
+  <sequence>5712</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:42:26.706918500Z</date>
+  <millis>1707712946706</millis>
+  <nanos>918500</nanos>
+  <sequence>5713</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:42:26.706918500Z</date>
+  <millis>1707712946706</millis>
+  <nanos>918500</nanos>
+  <sequence>5714</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>appium outlog: C:\Users\skyne\Katalon Studio\sample mobile\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:42:26.706918500Z</date>
+  <millis>1707712946706</millis>
+  <nanos>918500</nanos>
+  <sequence>5715</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>appium errlog: C:\Users\skyne\Katalon Studio\sample mobile\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:42:29.056525Z</date>
+  <millis>1707712949056</millis>
+  <nanos>525000</nanos>
+  <sequence>5716</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>Appium server started on port 3,555</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:42:40.805702Z</date>
+  <millis>1707712960805</millis>
+  <nanos>702000</nanos>
+  <sequence>5718</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>appiumVersion = 2.5.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">2.5.0</property>
+</record>
+<record>
+  <date>2024-02-12T04:42:40.805702Z</date>
+  <millis>1707712960805</millis>
+  <nanos>702000</nanos>
+  <sequence>5719</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;ready&amp;quot;:true,&amp;quot;message&amp;quot;:&amp;quot;The server is ready to accept new connections&amp;quot;,&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;2.5.0&amp;quot;}}}</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;ready&quot;:true,&quot;message&quot;:&quot;The server is ready to accept new connections&quot;,&quot;build&quot;:{&quot;version&quot;:&quot;2.5.0&quot;}}}</property>
+</record>
+<record>
+  <date>2024-02-12T04:42:40.811710700Z</date>
+  <millis>1707712960811</millis>
+  <nanos>710700</nanos>
+  <sequence>5720</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>deviceId = DQROLNJZNNVKEUDI</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">DQROLNJZNNVKEUDI</property>
+</record>
+<record>
+  <date>2024-02-12T04:42:40.811710700Z</date>
+  <millis>1707712960811</millis>
+  <nanos>710700</nanos>
+  <sequence>5721</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>deviceName = realme RMX3572 (Android 13)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">realme RMX3572 (Android 13)</property>
+</record>
+<record>
+  <date>2024-02-12T04:42:40.812712600Z</date>
+  <millis>1707712960812</millis>
+  <nanos>712600</nanos>
+  <sequence>5722</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>deviceModel = RMX3572</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">RMX3572</property>
+</record>
+<record>
+  <date>2024-02-12T04:42:40.812712600Z</date>
+  <millis>1707712960812</millis>
+  <nanos>712600</nanos>
+  <sequence>5723</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>deviceManufacturer = realme</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">realme</property>
+</record>
+<record>
+  <date>2024-02-12T04:42:40.812712600Z</date>
+  <millis>1707712960812</millis>
+  <nanos>712600</nanos>
+  <sequence>5724</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T04:42:40.812712600Z</date>
+  <millis>1707712960812</millis>
+  <nanos>712600</nanos>
+  <sequence>5725</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1361</thread>
+  <message>deviceOSVersion = 13</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">13</property>
+</record>
+<record>
+  <date>2024-02-12T04:43:19.843870900Z</date>
+  <millis>1707712999843</millis>
+  <nanos>870900</nanos>
+  <sequence>5726</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1380</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:43:38.635077500Z</date>
+  <millis>1707713018635</millis>
+  <nanos>77500</nanos>
+  <sequence>5727</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1386</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:44:06.674375200Z</date>
+  <millis>1707713046674</millis>
+  <nanos>375200</nanos>
+  <sequence>5728</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1390</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:46:08.925718800Z</date>
+  <millis>1707713168925</millis>
+  <nanos>718800</nanos>
+  <sequence>5729</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:46:14.341889100Z</date>
+  <millis>1707713174341</millis>
+  <nanos>889100</nanos>
+  <sequence>5730</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>PATH: C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin/server;C:/Users/skyne/.katalon/packages/Katalon_Studio_Windows_64-9.2.0/Katalon_Studio_Windows_64-9.2.0/jre/bin;c:\python310\scripts\;c:\python310\;c:\program files (x86)\common files\oracle\java\javapath;c:\programdata\oracle\java\javapath;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;c:\windows\system32\openssh\;c:\programdata\composersetup\bin;c:\program files\git\cmd;c:\programdata\chocolatey\bin;c:\program files\docker\docker\resources\bin;c:\programdata\dockerdesktop\version-bin;c:\program files\nodejs\;c:\program files\putty\;c:\program files\cloudflare\cloudflare warp\;c:\program files\nvidia corporation\nvidia nvdlisr;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\skyne\AppData\Local\Programs\Python\Python39\;C:\Users\skyne\AppData\Local\Microsoft\WindowsApps;C:\Users\skyne\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\skyne\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Users\skyne\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files (x86)\GitHub CLI\;C:\Users\skyne\AppData\Roaming\npm;C:\Users\skyne\AppData\Local\GitHubDesktop\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\skyne\Documents\1. BRI\Bootcampt\Automation\JDBC\sqljdbc_12.6\enu\jars\;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin\;;C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0;:C:\Users\skyne\.katalon\packages\Katalon_Studio_Windows_64-9.2.0\Katalon_Studio_Windows_64-9.2.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:46:14.341889100Z</date>
+  <millis>1707713174341</millis>
+  <nanos>889100</nanos>
+  <sequence>5731</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>APPIUM_HOME: C:\Users\skyne\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:46:14.341889100Z</date>
+  <millis>1707713174341</millis>
+  <nanos>889100</nanos>
+  <sequence>5732</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>appium outlog: C:\Users\skyne\Katalon Studio\sample mobile\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:46:14.341889100Z</date>
+  <millis>1707713174341</millis>
+  <nanos>889100</nanos>
+  <sequence>5733</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>appium errlog: C:\Users\skyne\Katalon Studio\sample mobile\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:46:16.389602Z</date>
+  <millis>1707713176389</millis>
+  <nanos>602000</nanos>
+  <sequence>5734</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>Appium server started on port 4,054</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:46:24.609532500Z</date>
+  <millis>1707713184609</millis>
+  <nanos>532500</nanos>
+  <sequence>5736</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>appiumVersion = 2.5.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">2.5.0</property>
+</record>
+<record>
+  <date>2024-02-12T04:46:24.609532500Z</date>
+  <millis>1707713184609</millis>
+  <nanos>532500</nanos>
+  <sequence>5737</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;ready&amp;quot;:true,&amp;quot;message&amp;quot;:&amp;quot;The server is ready to accept new connections&amp;quot;,&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;2.5.0&amp;quot;}}}</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;ready&quot;:true,&quot;message&quot;:&quot;The server is ready to accept new connections&quot;,&quot;build&quot;:{&quot;version&quot;:&quot;2.5.0&quot;}}}</property>
+</record>
+<record>
+  <date>2024-02-12T04:46:24.615531300Z</date>
+  <millis>1707713184615</millis>
+  <nanos>531300</nanos>
+  <sequence>5738</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>deviceId = 172.16.213.197:33271</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">172.16.213.197:33271</property>
+</record>
+<record>
+  <date>2024-02-12T04:46:24.615531300Z</date>
+  <millis>1707713184615</millis>
+  <nanos>531300</nanos>
+  <sequence>5739</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>deviceName = realme RMX3572 (Android 13)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">realme RMX3572 (Android 13)</property>
+</record>
+<record>
+  <date>2024-02-12T04:46:24.615531300Z</date>
+  <millis>1707713184615</millis>
+  <nanos>531300</nanos>
+  <sequence>5740</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>deviceModel = RMX3572</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">RMX3572</property>
+</record>
+<record>
+  <date>2024-02-12T04:46:24.615531300Z</date>
+  <millis>1707713184615</millis>
+  <nanos>531300</nanos>
+  <sequence>5741</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>deviceManufacturer = realme</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">realme</property>
+</record>
+<record>
+  <date>2024-02-12T04:46:24.615531300Z</date>
+  <millis>1707713184615</millis>
+  <nanos>531300</nanos>
+  <sequence>5742</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-12T04:46:24.616535600Z</date>
+  <millis>1707713184616</millis>
+  <nanos>535600</nanos>
+  <sequence>5743</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1403</thread>
+  <message>deviceOSVersion = 13</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">13</property>
+</record>
+<record>
+  <date>2024-02-12T04:46:40.172732600Z</date>
+  <millis>1707713200172</millis>
+  <nanos>732600</nanos>
+  <sequence>5744</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1419</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:46:52.847083Z</date>
+  <millis>1707713212847</millis>
+  <nanos>83000</nanos>
+  <sequence>5745</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1426</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:47:09.991675700Z</date>
+  <millis>1707713229991</millis>
+  <nanos>675700</nanos>
+  <sequence>5746</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1430</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:47:24.261749700Z</date>
+  <millis>1707713244261</millis>
+  <nanos>749700</nanos>
+  <sequence>5747</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1434</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T04:47:35.946609300Z</date>
+  <millis>1707713255946</millis>
+  <nanos>609300</nanos>
+  <sequence>5748</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1438</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T06:01:51.528753Z</date>
+  <millis>1707717711528</millis>
+  <nanos>753000</nanos>
+  <sequence>6345</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1458</thread>
+  <message>Finding test data with id &amp;apos;Data Files/RegistrationData&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T06:01:51.540757500Z</date>
+  <millis>1707717711540</millis>
+  <nanos>757500</nanos>
+  <sequence>6346</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1458</thread>
+  <message>Test data is internal data, reading internal data</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T06:06:53.654350Z</date>
+  <millis>1707718013654</millis>
+  <nanos>350000</nanos>
+  <sequence>8715</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1451</thread>
+  <message>Finding test data with id &amp;apos;Data Files/RegistrationData&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T06:06:53.655353800Z</date>
+  <millis>1707718013655</millis>
+  <nanos>353800</nanos>
+  <sequence>8716</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1451</thread>
+  <message>Test data is internal data, reading internal data</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T06:13:56.944226800Z</date>
+  <millis>1707718436944</millis>
+  <nanos>226800</nanos>
+  <sequence>10611</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1621</thread>
+  <message>Finding test data with id &amp;apos;Data Files/RegistrationData&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-12T06:13:56.945224Z</date>
+  <millis>1707718436945</millis>
+  <nanos>224000</nanos>
+  <sequence>10612</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1621</thread>
+  <message>Test data is internal data, reading internal data</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
