@@ -1,0 +1,12 @@
+1
+00:00:00,066 --> 00:00:00,882
+1. openBrowser("")
+
+2
+00:00:00,883 --> 00:00:03,472
+5. navigateToUrl("https://advantageonlineshopping.com/")
+
+3
+00:00:03,473 --> 00:00:04,181
+9. click(findTestObject("TC 2/Page_Advantage Shopping/a_My account                        My orders                        Sign out"))
+

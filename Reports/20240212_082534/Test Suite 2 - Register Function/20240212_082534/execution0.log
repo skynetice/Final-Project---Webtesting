@@ -4683,3 +4683,4 @@ Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text &amp;
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
+</log>
