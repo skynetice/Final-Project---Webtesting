@@ -1,4 +1,4 @@
-# Final Project - WebUI
+# Final Project - Website
 
 terdiri dari 4 Test Case Utama, yakni :
 
