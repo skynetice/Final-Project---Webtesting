@@ -1641,9 +1641,7 @@ Session ID: e57a9f0a2f822136318ffb663cc3a643
   <property name="startLine">22</property>
   <property name="stepIndex">2</property>
 </record>
-</log><?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE log SYSTEM "logger.dtd">
-<log>
 <record>
   <date>2024-02-12T01:23:14.763086100Z</date>
   <millis>1707700994763</millis>

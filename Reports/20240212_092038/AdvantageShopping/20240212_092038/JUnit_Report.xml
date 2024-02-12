@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="AdvantageShopping" time="283.223" tests="7" failures="0" errors="0">
+   <testsuite name="Test Suite 1 - Login and Order" tests="2" failures="0" errors="0" time="134.527" skipped="0" timestamp="12-02-2024T09:20:46" hostname="skyne - SKYNETICJ-0VA" id="Test Suites/Test Suite 1 - Login and Order">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\skyne\\git\\Final-Project---Webtesting\\Reports\\20240212_092038\\Test Suite 1 - Login and Order\\20240212_092039"/>
+         <property name="logFiles" value="C:\\Users\\skyne\\git\\Final-Project---Webtesting\\Reports\\20240212_092038\\Test Suite 1 - Login and Order\\20240212_092039\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="skyne - SKYNETICJ-0VA"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="172.16.213.219"/>
+         <property name="sessionId" value="74296f4ab719ceab052c0981f46be012"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC 1 - Shopping and Login" time="73.72" classname="Test Cases/TC 1 - Shopping and Login" status="PASSED">
+         <system-out><![CDATA[12-02-2024T09:20:47 - [TEST_CASE][PASSED] - Test Cases/TC 1 - Shopping and Login: Test Cases/TC 1 - Shopping and Login
+
+12-02-2024T09:20:47 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12-02-2024T09:20:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12-02-2024T09:20:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12-02-2024T09:20:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12-02-2024T09:20:49 - [TEST_STEP][PASSED] - navigateToUrl(site_url): Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:20:52 - [MESSAGE][PASSED] - Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:20:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/div_LAPTOPS                        Shop Now")): Object: 'Object Repository/TC1/Page_Advantage Shopping/div_LAPTOPS                        Shop Now' is clicked on
+
+12-02-2024T09:20:57 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/div_LAPTOPS                        Shop Now' is clicked on
+
+12-02-2024T09:20:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/li_SOLD OUT                                _252972")): Object: 'Object Repository/TC1/Page_Advantage Shopping/li_SOLD OUT                                _252972' is clicked on
+
+12-02-2024T09:21:17 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/li_SOLD OUT                                _252972' is clicked on
+
+12-02-2024T09:21:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/button_ADD TO CART")): Object: 'Object Repository/TC1/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T09:21:33 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T09:21:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/button_CHECKOUT  (1,261.99)")): Object: 'Object Repository/TC1/Page_Advantage Shopping/button_CHECKOUT  (1,261.99)' is clicked on
+
+12-02-2024T09:21:33 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/button_CHECKOUT  (1,261.99)' is clicked on
+
+12-02-2024T09:21:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_usernameInOrderPayment"), "nicehsk"): Text 'nicehsk' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_usernameInOrderPayment'
+
+12-02-2024T09:21:34 - [MESSAGE][PASSED] - Text 'nicehsk' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_usernameInOrderPayment'
+
+12-02-2024T09:21:34 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_passwordInOrderPayment"), "IUzobqKA7NU0EdNVQvmFCA=="): Text ****** has been set on object 'Object Repository/TC1/Page_Advantage Shopping/input_passwordInOrderPayment'
+
+12-02-2024T09:21:36 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC1/Page_Advantage Shopping/input_passwordInOrderPayment'
+
+12-02-2024T09:21:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/button_LOGIN")): Object: 'Object Repository/TC1/Page_Advantage Shopping/button_LOGIN' is clicked on
+
+12-02-2024T09:21:36 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/button_LOGIN' is clicked on
+
+12-02-2024T09:21:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/a_Edit shipping details")): Object: 'Object Repository/TC1/Page_Advantage Shopping/a_Edit shipping details' is clicked on
+
+12-02-2024T09:21:41 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/a_Edit shipping details' is clicked on
+
+12-02-2024T09:21:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_first_name"), "Budi"): Text 'Budi' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_first_name'
+
+12-02-2024T09:21:42 - [MESSAGE][PASSED] - Text 'Budi' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_first_name'
+
+12-02-2024T09:21:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_last_name"), "Saja"): Text 'Saja' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_last_name'
+
+12-02-2024T09:21:43 - [MESSAGE][PASSED] - Text 'Saja' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_last_name'
+
+12-02-2024T09:21:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_phone_number"), "00000000000"): Text '00000000000' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_phone_number'
+
+12-02-2024T09:21:44 - [MESSAGE][PASSED] - Text '00000000000' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_phone_number'
+
+12-02-2024T09:21:44 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("TC1/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a"), "Indonesia", false): All options with label 'Indonesia' are selected in object 'Object Repository/TC1/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a' 
+
+12-02-2024T09:21:45 - [MESSAGE][PASSED] - All options with label 'Indonesia' are selected in object 'Object Repository/TC1/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a' 
+
+12-02-2024T09:21:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_city"), "Jakarta"): Text 'Jakarta' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_city'
+
+12-02-2024T09:21:46 - [MESSAGE][PASSED] - Text 'Jakarta' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_city'
+
+12-02-2024T09:21:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_address"), "Jakarta"): Text 'Jakarta' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_address'
+
+12-02-2024T09:21:47 - [MESSAGE][PASSED] - Text 'Jakarta' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_address'
+
+12-02-2024T09:21:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_postal_code"), "0000"): Text '0000' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_postal_code'
+
+12-02-2024T09:21:48 - [MESSAGE][PASSED] - Text '0000' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_postal_code'
+
+12-02-2024T09:21:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Advantage Shopping/input_state__province__region"), "Jakarta"): Text 'Jakarta' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_state__province__region'
+
+12-02-2024T09:21:49 - [MESSAGE][PASSED] - Text 'Jakarta' is set on object 'Object Repository/TC1/Page_Advantage Shopping/input_state__province__region'
+
+12-02-2024T09:21:49 - [TEST_STEP][PASSED] - click(findTestObject("TC 1-2/Page_Advantage Shopping/button_NEXT")): Object: 'Object Repository/TC 1-2/Page_Advantage Shopping/button_NEXT' is clicked on
+
+12-02-2024T09:21:50 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 1-2/Page_Advantage Shopping/button_NEXT' is clicked on
+
+12-02-2024T09:21:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Advantage Shopping/button_PAY NOW")): Object: 'Object Repository/TC1/Page_Advantage Shopping/button_PAY NOW' is clicked on
+
+12-02-2024T09:21:54 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Advantage Shopping/button_PAY NOW' is clicked on
+
+12-02-2024T09:21:54 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/TC1/Page_Advantage Shopping/h2_Thank you for buying with Advantage"), 0): Object 'Object Repository/TC1/Page_Advantage Shopping/h2_Thank you for buying with Advantage' is present
+
+12-02-2024T09:21:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+12-02-2024T09:21:55 - [MESSAGE][PASSED] - Object 'Object Repository/TC1/Page_Advantage Shopping/h2_Thank you for buying with Advantage' is present
+
+12-02-2024T09:21:55 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+12-02-2024T09:21:58 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+12-02-2024T09:21:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+12-02-2024T09:21:58 - [MESSAGE][PASSED] - Browser is closed
+
+12-02-2024T09:22:00 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/TC 1 - Shopping and Login' .
+
+12-02-2024T09:22:00 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/TC 1 - Shopping and Login' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC 2 - Login then Shop 3 Items" time="60.601" classname="Test Cases/TC 2 - Login then Shop 3 Items" status="PASSED">
+         <system-out><![CDATA[12-02-2024T09:22:00 - [TEST_CASE][PASSED] - Test Cases/TC 2 - Login then Shop 3 Items: Test Cases/TC 2 - Login then Shop 3 Items
+
+12-02-2024T09:22:00 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12-02-2024T09:22:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12-02-2024T09:22:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12-02-2024T09:22:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12-02-2024T09:22:01 - [TEST_STEP][PASSED] - navigateToUrl("https://advantageonlineshopping.com/"): Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:22:08 - [MESSAGE][PASSED] - Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:22:08 - [TEST_STEP][PASSED] - click(findTestObject("TC 2/Page_Advantage Shopping/a_My account                        My orders                        Sign out")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_My account                        My orders                        Sign out' is clicked on
+
+12-02-2024T09:22:13 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_My account                        My orders                        Sign out' is clicked on
+
+12-02-2024T09:22:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/input_username"), "nicehsk"): Text 'nicehsk' is set on object 'Object Repository/TC 2/Page_Advantage Shopping/input_username'
+
+12-02-2024T09:22:13 - [MESSAGE][PASSED] - Text 'nicehsk' is set on object 'Object Repository/TC 2/Page_Advantage Shopping/input_username'
+
+12-02-2024T09:22:13 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/input_password"), "IUzobqKA7NU0EdNVQvmFCA=="): Text ****** has been set on object 'Object Repository/TC 2/Page_Advantage Shopping/input_password'
+
+12-02-2024T09:22:15 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC 2/Page_Advantage Shopping/input_password'
+
+12-02-2024T09:22:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_SIGN IN")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_SIGN IN' is clicked on
+
+12-02-2024T09:22:15 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_SIGN IN' is clicked on
+
+12-02-2024T09:22:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/div_SPEAKERS                        Shop Now")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_SPEAKERS                        Shop Now' is clicked on
+
+12-02-2024T09:22:19 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_SPEAKERS                        Shop Now' is clicked on
+
+12-02-2024T09:22:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _e4d6fd")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _e4d6fd' is clicked on
+
+12-02-2024T09:22:21 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _e4d6fd' is clicked on
+
+12-02-2024T09:22:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T09:22:24 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T09:22:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/a_HOME")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_HOME' is clicked on
+
+12-02-2024T09:22:26 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_HOME' is clicked on
+
+12-02-2024T09:22:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/div_HEADPHONES                        Shop Now")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_HEADPHONES                        Shop Now' is clicked on
+
+12-02-2024T09:22:31 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_HEADPHONES                        Shop Now' is clicked on
+
+12-02-2024T09:22:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _ad00b0")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _ad00b0' is clicked on
+
+12-02-2024T09:22:32 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _ad00b0' is clicked on
+
+12-02-2024T09:22:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T09:22:38 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T09:22:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/a_HOME")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_HOME' is clicked on
+
+12-02-2024T09:22:40 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_HOME' is clicked on
+
+12-02-2024T09:22:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/div_MICE                        Shop Now")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_MICE                        Shop Now' is clicked on
+
+12-02-2024T09:22:40 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_MICE                        Shop Now' is clicked on
+
+12-02-2024T09:22:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _269779")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _269779' is clicked on
+
+12-02-2024T09:22:41 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/li_SOLD OUT                                _269779' is clicked on
+
+12-02-2024T09:22:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/div_plus")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_plus' is clicked on
+
+12-02-2024T09:22:41 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/div_plus' is clicked on
+
+12-02-2024T09:22:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T09:22:42 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_ADD TO CART' is clicked on
+
+12-02-2024T09:22:42 - [TEST_STEP][PASSED] - click(findTestObject("TC 2/Page_Advantage Shopping/a_0")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_0' is clicked on
+
+12-02-2024T09:22:45 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/a_0' is clicked on
+
+12-02-2024T09:22:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_CHECKOUT (2,170.94)")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_CHECKOUT (2,170.94)' is clicked on
+
+12-02-2024T09:22:47 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_CHECKOUT (2,170.94)' is clicked on
+
+12-02-2024T09:22:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_NEXT")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_NEXT' is clicked on
+
+12-02-2024T09:22:52 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_NEXT' is clicked on
+
+12-02-2024T09:22:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/button_PAY NOW")): Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_PAY NOW' is clicked on
+
+12-02-2024T09:22:53 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 2/Page_Advantage Shopping/button_PAY NOW' is clicked on
+
+12-02-2024T09:22:53 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/h2_Thank you for buying with Advantage"), 0): Object 'Object Repository/TC 2/Page_Advantage Shopping/h2_Thank you for buying with Advantage' is present
+
+12-02-2024T09:22:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+12-02-2024T09:22:55 - [MESSAGE][PASSED] - Object 'Object Repository/TC 2/Page_Advantage Shopping/h2_Thank you for buying with Advantage' is present
+
+12-02-2024T09:22:55 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/TC 2/Page_Advantage Shopping/label_Budi Saja"), "Budi Saja"): Actual text and expected text of test object 'Object Repository/TC 2/Page_Advantage Shopping/label_Budi Saja' are matched.
+
+12-02-2024T09:22:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/TC 2/Page_Advantage Shopping/label_Budi Saja' are matched.
+
+12-02-2024T09:22:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+12-02-2024T09:22:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+12-02-2024T09:22:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+12-02-2024T09:22:59 - [MESSAGE][PASSED] - Browser is closed
+
+12-02-2024T09:23:01 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/TC 2 - Login then Shop 3 Items' .
+
+12-02-2024T09:23:01 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/TC 2 - Login then Shop 3 Items' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[12-02-2024T09:20:46 - [TEST_SUITE][PASSED] - Test Suite 1 - Login and Order: Test Cases/TC 2 - Login then Shop 3 Items]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Test Suite 2 - Register Function" tests="5" failures="0" errors="0" time="141.101" skipped="0" timestamp="12-02-2024T09:23:05" hostname="skyne - SKYNETICJ-0VA" id="Test Suites/Test Suite 2 - Register Function">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\skyne\\git\\Final-Project---Webtesting\\Reports\\20240212_092038\\Test Suite 2 - Register Function\\20240212_092041"/>
+         <property name="logFiles" value="C:\\Users\\skyne\\git\\Final-Project---Webtesting\\Reports\\20240212_092038\\Test Suite 2 - Register Function\\20240212_092041\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\skyne\\git\\Final-Project---Webtesting\\Reports\\20240212_092038\\Test Suite 2 - Register Function\\20240212_092041\\1707704622379.png, C:\\Users\\skyne\\git\\Final-Project---Webtesting\\Reports\\20240212_092038\\Test Suite 2 - Register Function\\20240212_092041\\1707704690468.png"/>
+         <property name="hostName" value="skyne - SKYNETICJ-0VA"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="172.16.213.219"/>
+         <property name="sessionId" value="5ad69fb899e880e149f436e5ba37cf01"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC 3 - Create acccount with error" time="32.922" classname="Test Cases/TC 3 - Create acccount with error" status="PASSED">
+         <system-out><![CDATA[12-02-2024T09:23:05 - [TEST_CASE][PASSED] - Test Cases/TC 3 - Create acccount with error: Test Cases/TC 3 - Create acccount with error
+
+12-02-2024T09:23:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12-02-2024T09:23:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12-02-2024T09:23:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12-02-2024T09:23:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12-02-2024T09:23:07 - [TEST_STEP][PASSED] - navigateToUrl(site_url): Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:23:10 - [MESSAGE][PASSED] - Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:23:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+12-02-2024T09:23:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+12-02-2024T09:23:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/a_My account                        My orde_124641")): Object: 'Object Repository/TC 3/Page_Advantage Shopping/a_My account                        My orde_124641' is clicked on
+
+12-02-2024T09:23:14 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 3/Page_Advantage Shopping/a_My account                        My orde_124641' is clicked on
+
+12-02-2024T09:23:14 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+12-02-2024T09:23:15 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+12-02-2024T09:23:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/a_CREATE NEW ACCOUNT")): Object: 'Object Repository/TC 3/Page_Advantage Shopping/a_CREATE NEW ACCOUNT' is clicked on
+
+12-02-2024T09:23:16 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 3/Page_Advantage Shopping/a_CREATE NEW ACCOUNT' is clicked on
+
+12-02-2024T09:23:16 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+12-02-2024T09:23:17 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+12-02-2024T09:23:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_usernameRegisterPage"), username): Text 'nicehsk' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_usernameRegisterPage'
+
+12-02-2024T09:23:17 - [MESSAGE][PASSED] - Text 'nicehsk' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_usernameRegisterPage'
+
+12-02-2024T09:23:17 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_passwordRegisterPage"), password): Text ****** has been set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_passwordRegisterPage'
+
+12-02-2024T09:23:18 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_passwordRegisterPage'
+
+12-02-2024T09:23:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_emailRegisterPage"), email): Text 'test@gmail.com' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_emailRegisterPage'
+
+12-02-2024T09:23:19 - [MESSAGE][PASSED] - Text 'test@gmail.com' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_emailRegisterPage'
+
+12-02-2024T09:23:19 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_confirm_passwordRegisterPage"), passwordConfirm): Text ****** has been set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_confirm_passwordRegisterPage'
+
+12-02-2024T09:23:20 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_confirm_passwordRegisterPage'
+
+12-02-2024T09:23:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_first_nameRegisterPage"), "Santi"): Text 'Santi' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_first_nameRegisterPage'
+
+12-02-2024T09:23:21 - [MESSAGE][PASSED] - Text 'Santi' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_first_nameRegisterPage'
+
+12-02-2024T09:23:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_last_nameRegisterPage"), "Satu"): Text 'Satu' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_last_nameRegisterPage'
+
+12-02-2024T09:23:22 - [MESSAGE][PASSED] - Text 'Satu' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_last_nameRegisterPage'
+
+12-02-2024T09:23:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_phone_numberRegisterPage"), "0000000000000"): Text '0000000000000' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_phone_numberRegisterPage'
+
+12-02-2024T09:23:23 - [MESSAGE][PASSED] - Text '0000000000000' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_phone_numberRegisterPage'
+
+12-02-2024T09:23:23 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("TC 3/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a"), "Indonesia", false): All options with label 'Indonesia' are selected in object 'Object Repository/TC 3/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a' 
+
+12-02-2024T09:23:24 - [MESSAGE][PASSED] - All options with label 'Indonesia' are selected in object 'Object Repository/TC 3/Page_Advantage Shopping/select_AfganistanAlbaniaAlgeriaAmerican Sam_3cef8a' 
+
+12-02-2024T09:23:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_cityRegisterPage"), "Jakarta"): Text 'Jakarta' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_cityRegisterPage'
+
+12-02-2024T09:23:26 - [MESSAGE][PASSED] - Text 'Jakarta' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_cityRegisterPage'
+
+12-02-2024T09:23:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_addressRegisterPage"), "Jakarta"): Text 'Jakarta' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_addressRegisterPage'
+
+12-02-2024T09:23:27 - [MESSAGE][PASSED] - Text 'Jakarta' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_addressRegisterPage'
+
+12-02-2024T09:23:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/label_State  Province  Region")): Object: 'Object Repository/TC 3/Page_Advantage Shopping/label_State  Province  Region' is clicked on
+
+12-02-2024T09:23:27 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 3/Page_Advantage Shopping/label_State  Province  Region' is clicked on
+
+12-02-2024T09:23:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_state__province__regionRegisterPage"), "Jakarta"): Text 'Jakarta' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_state__province__regionRegisterPage'
+
+12-02-2024T09:23:28 - [MESSAGE][PASSED] - Text 'Jakarta' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_state__province__regionRegisterPage'
+
+12-02-2024T09:23:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_postal_codeRegisterPage"), "0000"): Text '0000' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_postal_codeRegisterPage'
+
+12-02-2024T09:23:30 - [MESSAGE][PASSED] - Text '0000' is set on object 'Object Repository/TC 3/Page_Advantage Shopping/input_postal_codeRegisterPage'
+
+12-02-2024T09:23:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/input_i_agree")): Object: 'Object Repository/TC 3/Page_Advantage Shopping/input_i_agree' is clicked on
+
+12-02-2024T09:23:30 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 3/Page_Advantage Shopping/input_i_agree' is clicked on
+
+12-02-2024T09:23:30 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+12-02-2024T09:23:31 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+12-02-2024T09:23:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/button_REGISTER")): Object: 'Object Repository/TC 3/Page_Advantage Shopping/button_REGISTER' is clicked on
+
+12-02-2024T09:23:31 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 3/Page_Advantage Shopping/button_REGISTER' is clicked on
+
+12-02-2024T09:23:31 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/TC 3/Page_Advantage Shopping/label_center block smollMargin"), "User name already exists"): Actual text and expected text of test object 'Object Repository/TC 3/Page_Advantage Shopping/label_center block smollMargin' are matched.
+
+12-02-2024T09:23:33 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/TC 3/Page_Advantage Shopping/label_center block smollMargin' are matched.
+
+12-02-2024T09:23:33 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+12-02-2024T09:23:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+12-02-2024T09:23:36 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+12-02-2024T09:23:36 - [MESSAGE][PASSED] - Browser is closed
+
+12-02-2024T09:23:38 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/TC 3 - Create acccount with error' .
+
+12-02-2024T09:23:38 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/TC 3 - Create acccount with error' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC 4 - Check if confirmation password is equal" time="19.861" classname="Test Cases/TC 4 - Check if confirmation password is equal" status="PASSED">
+         <system-out><![CDATA[12-02-2024T09:23:44 - [TEST_CASE][PASSED] - Test Cases/TC 4 - Check if confirmation password is equal: Test Cases/TC 4 - Check if confirmation password is equal
+
+12-02-2024T09:23:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12-02-2024T09:23:44 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+12-02-2024T09:23:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12-02-2024T09:23:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12-02-2024T09:23:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12-02-2024T09:23:45 - [TEST_STEP][PASSED] - navigateToUrl(site_url): Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:23:48 - [MESSAGE][PASSED] - Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:23:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641' is clicked on
+
+12-02-2024T09:23:52 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641' is clicked on
+
+12-02-2024T09:23:52 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+12-02-2024T09:23:53 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+12-02-2024T09:23:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT' is clicked on
+
+12-02-2024T09:23:53 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT' is clicked on
+
+12-02-2024T09:23:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage"), username): Text 'nicehsk' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage'
+
+12-02-2024T09:23:55 - [MESSAGE][PASSED] - Text 'nicehsk' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage'
+
+12-02-2024T09:23:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage"), email): Text 'test@gmail.com' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage'
+
+12-02-2024T09:23:56 - [MESSAGE][PASSED] - Text 'test@gmail.com' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage'
+
+12-02-2024T09:23:56 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage"), password): Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage'
+
+12-02-2024T09:23:56 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage'
+
+12-02-2024T09:23:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:23:57 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:23:57 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage"), passwordConfirm): Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage'
+
+12-02-2024T09:23:58 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage'
+
+12-02-2024T09:23:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:23:58 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:23:58 - [TEST_STEP][PASSED] - if (password != passwordConfirm): Object 'Object Repository/TC 4/Page_Advantage Shopping/label_password not match' is present
+
+12-02-2024T09:23:58 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("TC 4/Page_Advantage Shopping/label_password not match"), 1): Object 'Object Repository/TC 4/Page_Advantage Shopping/label_password not match' is present
+
+12-02-2024T09:23:59 - [MESSAGE][PASSED] - Object 'Object Repository/TC 4/Page_Advantage Shopping/label_password not match' is present
+
+12-02-2024T09:23:59 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+12-02-2024T09:24:02 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+12-02-2024T09:24:02 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+12-02-2024T09:24:02 - [MESSAGE][PASSED] - Browser is closed
+
+12-02-2024T09:24:04 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/TC 4 - Check if confirmation password is equal' .
+
+12-02-2024T09:24:04 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/TC 4 - Check if confirmation password is equal' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC 4 - Check if confirmation password is equal" time="20.924" classname="Test Cases/TC 4 - Check if confirmation password is equal" status="PASSED">
+         <system-out><![CDATA[12-02-2024T09:24:04 - [TEST_CASE][PASSED] - Test Cases/TC 4 - Check if confirmation password is equal: Test Cases/TC 4 - Check if confirmation password is equal
+
+12-02-2024T09:24:04 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12-02-2024T09:24:04 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12-02-2024T09:24:04 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12-02-2024T09:24:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12-02-2024T09:24:05 - [TEST_STEP][PASSED] - navigateToUrl(site_url): Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:24:07 - [MESSAGE][PASSED] - Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:24:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641' is clicked on
+
+12-02-2024T09:24:12 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641' is clicked on
+
+12-02-2024T09:24:12 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+12-02-2024T09:24:13 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+12-02-2024T09:24:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT' is clicked on
+
+12-02-2024T09:24:13 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT' is clicked on
+
+12-02-2024T09:24:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage"), username): Text 'nicehsk' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage'
+
+12-02-2024T09:24:16 - [MESSAGE][PASSED] - Text 'nicehsk' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage'
+
+12-02-2024T09:24:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage"), email): Text 'test@gmail.com' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage'
+
+12-02-2024T09:24:17 - [MESSAGE][PASSED] - Text 'test@gmail.com' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage'
+
+12-02-2024T09:24:17 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage"), password): Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage'
+
+12-02-2024T09:24:17 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage'
+
+12-02-2024T09:24:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:24:18 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:24:18 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage"), passwordConfirm): Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage'
+
+12-02-2024T09:24:19 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage'
+
+12-02-2024T09:24:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:24:19 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:24:19 - [TEST_STEP][PASSED] - if (password != passwordConfirm): null
+
+12-02-2024T09:24:19 - [TEST_STEP][PASSED] - else: Web element with id: 'Object Repository/TC 4/Page_Advantage Shopping/label_password not match' located by 'By.xpath: //*[@class = 'animated invalid']' is not present after '1' second(s)
+
+12-02-2024T09:24:19 - [TEST_STEP][PASSED] - verifyElementNotPresent(findTestObject("TC 4/Page_Advantage Shopping/label_password not match"), 1): Web element with id: 'Object Repository/TC 4/Page_Advantage Shopping/label_password not match' located by 'By.xpath: //*[@class = 'animated invalid']' is not present after '1' second(s)
+
+12-02-2024T09:24:20 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/TC 4/Page_Advantage Shopping/label_password not match' located by 'By.xpath: //*[@class = 'animated invalid']' is not present after '1' second(s)
+
+12-02-2024T09:24:20 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+12-02-2024T09:24:23 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+12-02-2024T09:24:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+12-02-2024T09:24:23 - [MESSAGE][PASSED] - Browser is closed
+
+12-02-2024T09:24:25 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/TC 4 - Check if confirmation password is equal' .
+
+12-02-2024T09:24:25 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/TC 4 - Check if confirmation password is equal' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC 4 - Check if confirmation password is equal" time="20.748" classname="Test Cases/TC 4 - Check if confirmation password is equal" status="PASSED">
+         <system-out><![CDATA[12-02-2024T09:24:25 - [TEST_CASE][PASSED] - Test Cases/TC 4 - Check if confirmation password is equal: Test Cases/TC 4 - Check if confirmation password is equal
+
+12-02-2024T09:24:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12-02-2024T09:24:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12-02-2024T09:24:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12-02-2024T09:24:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12-02-2024T09:24:26 - [TEST_STEP][PASSED] - navigateToUrl(site_url): Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:24:28 - [MESSAGE][PASSED] - Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:24:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641' is clicked on
+
+12-02-2024T09:24:32 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641' is clicked on
+
+12-02-2024T09:24:32 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+12-02-2024T09:24:33 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+12-02-2024T09:24:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT' is clicked on
+
+12-02-2024T09:24:34 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT' is clicked on
+
+12-02-2024T09:24:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage"), username): Text 'goodhsk' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage'
+
+12-02-2024T09:24:36 - [MESSAGE][PASSED] - Text 'goodhsk' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage'
+
+12-02-2024T09:24:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage"), email): Text 'free@gmail.com' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage'
+
+12-02-2024T09:24:38 - [MESSAGE][PASSED] - Text 'free@gmail.com' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage'
+
+12-02-2024T09:24:38 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage"), password): Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage'
+
+12-02-2024T09:24:38 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage'
+
+12-02-2024T09:24:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:24:39 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:24:39 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage"), passwordConfirm): Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage'
+
+12-02-2024T09:24:39 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage'
+
+12-02-2024T09:24:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:24:40 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:24:40 - [TEST_STEP][PASSED] - if (password != passwordConfirm): null
+
+12-02-2024T09:24:40 - [TEST_STEP][PASSED] - else: Web element with id: 'Object Repository/TC 4/Page_Advantage Shopping/label_password not match' located by 'By.xpath: //*[@class = 'animated invalid']' is not present after '1' second(s)
+
+12-02-2024T09:24:40 - [TEST_STEP][PASSED] - verifyElementNotPresent(findTestObject("TC 4/Page_Advantage Shopping/label_password not match"), 1): Web element with id: 'Object Repository/TC 4/Page_Advantage Shopping/label_password not match' located by 'By.xpath: //*[@class = 'animated invalid']' is not present after '1' second(s)
+
+12-02-2024T09:24:40 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/TC 4/Page_Advantage Shopping/label_password not match' located by 'By.xpath: //*[@class = 'animated invalid']' is not present after '1' second(s)
+
+12-02-2024T09:24:40 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+12-02-2024T09:24:43 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+12-02-2024T09:24:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+12-02-2024T09:24:44 - [MESSAGE][PASSED] - Browser is closed
+
+12-02-2024T09:24:46 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/TC 4 - Check if confirmation password is equal' .
+
+12-02-2024T09:24:46 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/TC 4 - Check if confirmation password is equal' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC 4 - Check if confirmation password is equal" time="33.67" classname="Test Cases/TC 4 - Check if confirmation password is equal" status="PASSED">
+         <system-out><![CDATA[12-02-2024T09:24:52 - [TEST_CASE][PASSED] - Test Cases/TC 4 - Check if confirmation password is equal: Test Cases/TC 4 - Check if confirmation password is equal
+
+12-02-2024T09:24:52 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12-02-2024T09:24:52 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+12-02-2024T09:24:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12-02-2024T09:24:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12-02-2024T09:24:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12-02-2024T09:24:53 - [TEST_STEP][PASSED] - navigateToUrl(site_url): Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:24:56 - [MESSAGE][PASSED] - Navigate to 'https://advantageonlineshopping.com/' successfully
+
+12-02-2024T09:24:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641' is clicked on
+
+12-02-2024T09:25:00 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641' is clicked on
+
+12-02-2024T09:25:00 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+12-02-2024T09:25:01 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+12-02-2024T09:25:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT' is clicked on
+
+12-02-2024T09:25:01 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/a_CREATE NEW ACCOUNT' is clicked on
+
+12-02-2024T09:25:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage"), username): Text 'goodhsk' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage'
+
+12-02-2024T09:25:17 - [MESSAGE][PASSED] - Text 'goodhsk' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_usernameRegisterPage'
+
+12-02-2024T09:25:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage"), email): Text 'free@gmail.com' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage'
+
+12-02-2024T09:25:18 - [MESSAGE][PASSED] - Text 'free@gmail.com' is set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_emailRegisterPage'
+
+12-02-2024T09:25:18 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage"), password): Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage'
+
+12-02-2024T09:25:18 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_passwordRegisterPage'
+
+12-02-2024T09:25:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:25:19 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:25:19 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage"), passwordConfirm): Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage'
+
+12-02-2024T09:25:20 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC 4/Page_Advantage Shopping/input_confirm_passwordRegisterPage'
+
+12-02-2024T09:25:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password")): Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:25:20 - [MESSAGE][PASSED] - Object: 'Object Repository/TC 4/Page_Advantage Shopping/label_Confirm password' is clicked on
+
+12-02-2024T09:25:20 - [TEST_STEP][PASSED] - if (password != passwordConfirm): Object 'Object Repository/TC 4/Page_Advantage Shopping/label_password not match' is present
+
+12-02-2024T09:25:20 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("TC 4/Page_Advantage Shopping/label_password not match"), 1): Object 'Object Repository/TC 4/Page_Advantage Shopping/label_password not match' is present
+
+12-02-2024T09:25:21 - [MESSAGE][PASSED] - Object 'Object Repository/TC 4/Page_Advantage Shopping/label_password not match' is present
+
+12-02-2024T09:25:21 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+12-02-2024T09:25:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+12-02-2024T09:25:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+12-02-2024T09:25:24 - [MESSAGE][PASSED] - Browser is closed
+
+12-02-2024T09:25:26 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/TC 4 - Check if confirmation password is equal' .
+
+12-02-2024T09:25:26 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/TC 4 - Check if confirmation password is equal' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[12-02-2024T09:23:05 - [TEST_SUITE][FAILED] - Test Suite 2 - Register Function: Test Cases/TC 4 - Check if confirmation password is equal FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at TC 4 - Check if confirmation password is equal.run(TC 4 - Check if confirmation password is equal:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1707704441812.run(TempTestSuite1707704441812.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=121.0.6167.161)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'SKYNETICJ-0VA', ip: '172.16.213.219', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.161, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\skyne\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:3971}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb26eb9346d94dc3150e8acbba71929b
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[12-02-2024T09:23:05 - [TEST_SUITE][FAILED] - Test Suite 2 - Register Function: Test Cases/TC 4 - Check if confirmation password is equal FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/TC 4/Page_Advantage Shopping/a_My account                        My orde_124641'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:659)
+	at TC 4 - Check if confirmation password is equal.run(TC 4 - Check if confirmation password is equal:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1707704441812.run(TempTestSuite1707704441812.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=121.0.6167.161)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'SKYNETICJ-0VA', ip: '172.16.213.219', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.161, chrome: {chromedriverVersion: 120.0.6099.71 (9729082fe617..., userDataDir: C:\Users\skyne\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:3971}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bb26eb9346d94dc3150e8acbba71929b
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy24.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>
